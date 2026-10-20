@@ -1,0 +1,1001 @@
+Transaction_ID	Order_Date	Customer_Name	Gender	Customer_Age	Product_Category	Quantity	Unit_Price	Total_Amount	Region	Payment_Method
+T1001	25-02-2025	Lagan Wali	Female	54	Books	4	27149	108596	North	Cash
+T1002	28-08-2025	Seher Doctor	Male	23	Clothing	3	29997	89991	South	Cash
+T1003	29-01-2025	Kabir Karan	Female	46	Beauty	8	38169	305352	Central	Net Banking
+T1004	05-09-2025	Shalv Choudhary	Male	43	Electronics	2	42419	84838	West	Credit Card
+T1005	08-09-2025	Arhaan Shankar	Female	37	Books	7	19528	136696	West	Debit Card
+T1006	21-02-2025	Sara Kannan	Male	28	Clothing	10	45541	455410	North	Cash
+T1007	17-06-2025	Ela Rana	Male	24	Electronics	3	25406	76218	East	Debit Card
+T1008	07-11-2025	Tushar Chhabra	Male	40	Books	2	3629	7258	North	Cash
+T1009	22-01-2025	Aaryahi Balay	Male	23	Grocery	10	24871	248710	Central	UPI
+T1010	17-05-2025	Adah Rana	Male	58	Grocery	7	2025	14175	South	Cash
+T1011	22-03-2025	Shray Randhawa	Male	46	Books	8	28201	225608	South	Cash
+T1012	03-03-2025	Ira Gupta	Male	56	Clothing	10	41164	411640	West	Credit Card
+T1013	09-07-2025	Tanya Ahluwalia	Female	20	Clothing	9	44739	402651	Central	Debit Card
+T1014	27-10-2025	Navya Venkatesh	Female	59	Furniture	3	36219	108657	North	Debit Card
+T1015	29-01-2025	Samaira Khosla	Female	57	Home Appliances	4	13267	53068	East	Net Banking
+T1016	12-12-2025	Siya Dube	Female	20	Beauty	9	4801	43209	South	Debit Card
+T1017	27-06-2025	Rasha Mandal	Male	21	Footwear	2	43838	87676	West	Credit Card
+T1018	03-06-2025	Alia Basu	Male	21	Footwear	1	17174	17174	Central	UPI
+T1019	24-05-2025	Anika Lall	Male	43	Clothing	8	34971	279768	Central	Net Banking
+T1020	04-09-2025	Aarush Goyal	Female	55	Home Appliances	3	44551	133653	Central	Net Banking
+T1021	26-09-2025	Piya Saxena	Female	19	Grocery	2	23477	46954	South	Cash
+T1022	26-09-2025	Mishti Sarna	Male	63	Books	4	1834	7336	North	Debit Card
+T1023	14-05-2025	Vihaan Vala	Female	58	Sports	10	23533	235330	West	Cash
+T1024	01-07-2025	Taimur Gandhi	Male	60	Books	6	34594	207564	North	Credit Card
+T1025	25-06-2025	Hiran Chanda	Male	19	Electronics	10	22191	221910	Central	Cash
+T1026	08-12-2025	Umang Sengupta	Male	27	Clothing	4	5612	22448	North	Net Banking
+T1027	08-01-2025	Navya Anand	Female	65	Home Appliances	7	46024	322168	Central	Cash
+T1028	09-06-2025	Lagan Ramesh	Male	44	Beauty	8	48078	384624	Central	Debit Card
+T1029	04-07-2025	Diya Acharya	Female	56	Beauty	1	19725	19725	North	Credit Card
+T1030	06-05-2025	Mehul Chaudhry	Male	58	Grocery	3	18288	54864	Central	Net Banking
+T1031	10-05-2025	Hansh Lalla	Male	23	Books	4	44113	176452	East	Cash
+T1032	01-03-2025	Jiya Hora	Male	18	Home Appliances	6	36669	220014	East	Net Banking
+T1033	03-10-2025	Chirag Sathe	Male	31	Books	4	27942	111768	North	Cash
+T1034	03-11-2025	Piya Bawa	Male	19	Toys	6	14381	86286	West	Cash
+T1035	13-01-2025	Bhavin Lalla	Male	42	Footwear	4	48138	192552	East	UPI
+T1036	14-01-2025	Advika Vyas	Male	34	Clothing	9	26314	236826	Central	UPI
+T1037	29-01-2025	Vivaan Kohli	Male	22	Furniture	3	9071	27213	West	Net Banking
+T1038	17-05-2025	Ishaan Basu	Female	36	Grocery	6	21523	129138	South	Debit Card
+T1039	21-01-2025	Biju Chaudhary	Male	51	Toys	3	43386	130158	West	Cash
+T1040	05-12-2025	Zara Loke	Male	54	Footwear	5	29803	149015	East	Cash
+T1041	02-09-2025	Navya Korpal	Female	20	Electronics	9	5477	49293	East	Credit Card
+T1042	22-09-2025	Lagan Kamdar	Male	56	Clothing	10	34017	340170	East	UPI
+T1043	18-07-2025	Samaira Shanker	Female	46	Books	4	48267	193068	Central	Net Banking
+T1044	06-11-2025	Mamooty Singh	Female	37	Footwear	10	32806	328060	Central	Credit Card
+T1045	03-09-2025	Seher Ray	Female	55	Home Appliances	6	47138	282828	Central	Net Banking
+T1046	30-01-2025	Priyansh Sundaram	Female	42	Books	4	21180	84720	West	Cash
+T1047	19-07-2025	Advik Comar	Female	19	Sports	4	898	3592	East	Cash
+T1048	18-12-2025	Tarini Date	Female	31	Clothing	1	35731	35731	West	Debit Card
+T1049	23-03-2025	Veer Rege	Male	25	Electronics	5	37645	188225	North	Credit Card
+T1050	18-03-2025	Siya Das	Male	49	Toys	7	42453	297171	East	Debit Card
+T1051	07-05-2025	Raghav Ghose	Female	60	Sports	5	3689	18445	North	UPI
+T1052	04-12-2025	Oorja Bir	Male	59	Clothing	3	11648	34944	East	UPI
+T1053	27-05-2025	Himmat Viswanathan	Female	44	Grocery	8	18833	150664	South	UPI
+T1054	04-10-2025	Lavanya Shenoy	Female	54	Footwear	7	11625	81375	East	Cash
+T1055	20-03-2025	Yashvi Contractor	Male	26	Beauty	6	12963	77778	West	Cash
+T1056	07-01-2025	Aarush Sawhney	Female	46	Electronics	5	21350	106750	South	Net Banking
+T1057	03-09-2025	Zara Hayer	Female	59	Beauty	7	36923	258461	South	Credit Card
+T1058	22-01-2025	Yuvaan Sastry	Male	38	Grocery	7	3256	22792	West	Net Banking
+T1059	07-01-2025	Vihaan Manda	Male	54	Footwear	5	43518	217590	North	Credit Card
+T1060	28-11-2025	Heer Ramaswamy	Female	30	Books	8	1133	9064	South	Debit Card
+T1061	07-01-2025	Sara Chaudry	Male	59	Furniture	2	2178	4356	South	Credit Card
+T1062	26-05-2025	Eshani Chaudhuri	Male	45	Books	9	11857	106713	West	Debit Card
+T1063	15-06-2025	Onkar Rau	Female	58	Grocery	2	8416	16832	East	Credit Card
+T1064	04-09-2025	Dishani Sane	Female	18	Electronics	3	22319	66957	Central	Net Banking
+T1065	05-05-2025	Pihu Sem	Female	32	Beauty	10	32245	322450	West	Credit Card
+T1066	15-05-2025	Anaya Uppal	Male	34	Grocery	6	30022	180132	East	Debit Card
+T1067	10-06-2025	Riya Ramanathan	Female	62	Furniture	2	47562	95124	Central	Net Banking
+T1068	29-04-2025	Badal Guha	Female	50	Clothing	9	46173	415557	South	Credit Card
+T1069	08-04-2025	Zain Garde	Male	25	Home Appliances	4	24556	98224	South	Net Banking
+T1070	23-09-2025	Bhamini Bhagat	Male	27	Toys	3	4485	13455	West	Cash
+T1071	24-03-2025	Yashvi Bora	Male	59	Sports	9	45726	411534	South	Credit Card
+T1072	11-10-2025	Vritika Sagar	Female	27	Clothing	6	11192	67152	West	Debit Card
+T1073	02-12-2025	Eshani Chawla	Male	59	Grocery	8	19550	156400	West	Net Banking
+T1074	27-07-2025	Zaina Sani	Female	33	Home Appliances	6	33167	199002	North	Credit Card
+T1075	05-08-2025	Adira Jani	Male	54	Electronics	1	23269	23269	West	Credit Card
+T1076	23-06-2025	Suhana Kalla	Female	45	Sports	9	44178	397602	West	Net Banking
+T1077	07-05-2025	Arhaan Korpal	Female	22	Clothing	7	7451	52157	East	Debit Card
+T1078	13-11-2025	Ivan Kala	Female	20	Sports	3	8017	24051	East	Credit Card
+T1079	15-03-2025	Shray Roy	Female	58	Home Appliances	2	24109	48218	West	UPI
+T1080	22-12-2025	Suhana Krish	Male	56	Clothing	4	47104	188416	East	Net Banking
+T1081	04-08-2025	Jayesh Tak	Male	62	Electronics	4	38153	152612	Central	Cash
+T1082	08-01-2025	Dhanuk Bhatnagar	Male	59	Footwear	4	18479	73916	West	Net Banking
+T1083	07-04-2025	Manjari Sharma	Female	48	Sports	8	22444	179552	West	Cash
+T1084	23-03-2025	Tanya Bhandari	Female	23	Footwear	2	30023	60046	Central	Net Banking
+T1085	16-05-2025	Tiya Taneja	Male	62	Toys	7	49874	349118	North	Debit Card
+T1086	11-07-2025	Stuvan Shetty	Female	58	Home Appliances	3	46206	138618	North	Credit Card
+T1087	15-05-2025	Nirvaan Trivedi	Female	32	Furniture	5	48889	244445	Central	Debit Card
+T1088	15-05-2025	Onkar Lall	Female	23	Clothing	5	38907	194535	South	Net Banking
+T1089	27-04-2025	Indranil Dora	Female	64	Footwear	6	40199	241194	Central	UPI
+T1090	13-07-2025	Navya Raman	Male	25	Sports	5	28413	142065	South	Credit Card
+T1091	03-06-2025	Veer Ghose	Male	63	Footwear	7	9221	64547	West	Cash
+T1092	06-03-2025	Ela Soni	Female	43	Clothing	1	13983	13983	Central	UPI
+T1093	29-01-2025	Zaina Chaudhry	Female	28	Clothing	5	10510	52550	East	Net Banking
+T1094	01-01-2026	Taran Bera	Female	33	Clothing	5	39133	195665	North	UPI
+T1095	08-09-2025	Charvi Vora	Male	45	Footwear	3	28895	86685	Central	UPI
+T1096	24-03-2025	Samar Bath	Female	52	Sports	8	28824	230592	West	Credit Card
+T1097	04-07-2025	Elakshi Varghese	Male	36	Electronics	7	24985	174895	North	Debit Card
+T1098	19-02-2025	Reyansh Swaminathan	Female	61	Sports	7	7105	49735	Central	Debit Card
+T1099	18-04-2025	Dhanuk Tandon	Male	31	Furniture	1	43237	43237	South	Net Banking
+T1100	09-02-2025	Yasmin Ram	Female	50	Furniture	7	9883	69181	West	Debit Card
+T1101	02-10-2025	Pari Gala	Female	41	Grocery	4	41441	165764	West	Credit Card
+T1102	13-07-2025	Zara Dhar	Male	49	Furniture	7	23368	163576	South	UPI
+T1103	27-09-2025	Devansh Sami	Female	54	Sports	2	8233	16466	Central	UPI
+T1104	19-01-2025	Veer Devi	Female	47	Grocery	2	34192	68384	North	Credit Card
+T1105	22-06-2025	Neysa Dhaliwal	Male	58	Footwear	10	5848	58480	Central	Net Banking
+T1106	25-09-2025	Kismat Banik	Female	58	Electronics	10	25630	256300	Central	Cash
+T1107	03-11-2025	Shanaya Madan	Male	20	Toys	1	32548	32548	South	Cash
+T1108	21-03-2025	Advika Saini	Female	47	Toys	8	32441	259528	South	Cash
+T1109	15-04-2025	Hunar Hari	Male	41	Clothing	2	43829	87658	East	Debit Card
+T1110	07-02-2025	Inaaya  Garg	Male	51	Beauty	3	574	1722	Central	Cash
+T1111	02-11-2025	Jiya Bhatt	Female	60	Beauty	1	1329	1329	Central	Cash
+T1112	03-01-2025	Dhanuk Wable	Male	34	Grocery	8	8402	67216	North	Credit Card
+T1113	13-06-2025	Nirvaan Rao	Male	60	Beauty	3	1665	4995	North	Credit Card
+T1114	17-10-2025	Aarna Dutta	Male	34	Furniture	8	20775	166200	West	Cash
+T1115	20-05-2025	Ivan Ghosh	Male	43	Grocery	6	44131	264786	West	Debit Card
+T1116	27-02-2025	Hiran Thaker	Female	43	Sports	8	14591	116728	West	UPI
+T1117	24-09-2025	Ryan Chakrabarti	Female	37	Electronics	2	784	1568	East	Debit Card
+T1118	02-05-2025	Nirvi Chaudhary	Male	18	Footwear	1	19092	19092	West	Net Banking
+T1119	05-12-2025	Tarini Sunder	Male	64	Home Appliances	1	18975	18975	Central	Credit Card
+T1120	21-03-2025	Drishya Dugar	Female	48	Toys	7	18499	129493	West	UPI
+T1121	22-06-2025	Neysa Desai	Female	28	Footwear	1	13043	13043	West	Net Banking
+T1122	05-03-2025	Tara Chandra	Female	63	Grocery	10	17496	174960	East	Debit Card
+T1123	11-08-2025	Zoya Randhawa	Female	35	Furniture	3	22993	68979	South	UPI
+T1124	03-03-2025	Nehmat Dixit	Male	38	Footwear	8	11601	92808	East	Debit Card
+T1125	30-01-2025	Aaryahi Sinha	Male	21	Books	9	21528	193752	East	UPI
+T1126	03-10-2025	Kismat Agate	Male	55	Electronics	5	14743	73715	South	Net Banking
+T1127	20-10-2025	Madhup Kannan	Female	38	Home Appliances	1	28922	28922	North	Credit Card
+T1128	16-12-2025	Mamooty Bhatt	Female	48	Home Appliances	3	29816	89448	North	UPI
+T1129	28-06-2025	Navya Tella	Male	55	Electronics	1	39587	39587	West	Cash
+T1130	22-11-2025	Ishaan Vyas	Female	64	Clothing	5	9001	45005	Central	Cash
+T1131	05-12-2025	Akarsh Mallick	Female	63	Grocery	4	49668	198672	East	Debit Card
+T1132	24-04-2025	Faiyaz Sodhi	Female	31	Footwear	5	27918	139590	West	Cash
+T1133	22-09-2025	Arhaan Dara	Male	33	Beauty	5	23216	116080	Central	Debit Card
+T1134	29-12-2025	Arhaan Tandon	Female	56	Grocery	3	11470	34410	South	Net Banking
+T1135	29-03-2025	Hrishita Salvi	Male	32	Electronics	7	14522	101654	West	Net Banking
+T1136	28-09-2025	Akarsh Tata	Female	25	Footwear	9	11229	101061	East	Credit Card
+T1137	06-06-2025	Kiara Krishnan	Male	61	Clothing	6	24460	146760	Central	Debit Card
+T1138	17-08-2025	Mannat Wable	Female	28	Electronics	1	45511	45511	West	Cash
+T1139	04-06-2025	Aniruddh Shanker	Female	46	Home Appliances	2	26330	52660	East	Cash
+T1140	06-09-2025	Veer Virk	Male	25	Footwear	3	43367	130101	West	Credit Card
+T1141	15-02-2025	Onkar Krishna	Female	40	Home Appliances	10	4791	47910	North	Cash
+T1142	18-02-2025	Seher Rama	Male	33	Home Appliances	2	44999	89998	Central	Credit Card
+T1143	17-09-2025	Aradhya Sule	Female	25	Sports	7	3421	23947	North	Debit Card
+T1144	18-02-2025	Nirvi Varkey	Male	48	Sports	2	37867	75734	West	UPI
+T1145	22-01-2025	Khushi Shroff	Male	43	Clothing	8	48293	386344	East	UPI
+T1146	11-08-2025	Nirvi Basu	Male	34	Sports	7	42631	298417	Central	Net Banking
+T1147	18-03-2025	Dishani Bandi	Male	33	Beauty	8	38836	310688	North	Net Banking
+T1148	16-08-2025	Hansh Dhaliwal	Female	20	Toys	10	18892	188920	South	Net Banking
+T1149	15-05-2025	Badal Handa	Female	44	Clothing	4	24164	96656	West	Debit Card
+T1150	07-12-2025	Raghav Yadav	Male	40	Beauty	7	27992	195944	West	UPI
+T1151	13-07-2025	Yasmin Bansal	Female	59	Beauty	1	27577	27577	North	Credit Card
+T1152	04-10-2025	Hansh Reddy	Male	33	Grocery	10	49423	494230	West	UPI
+T1153	18-10-2025	Indranil Gopal	Male	62	Sports	2	29638	59276	East	Cash
+T1154	28-11-2025	Saksham Ramachandran	Male	61	Beauty	4	7450	29800	South	Cash
+T1155	28-10-2025	Aaryahi Mani	Female	59	Books	7	24886	174202	South	UPI
+T1156	17-04-2025	Madhav Sood	Female	51	Toys	5	3730	18650	South	Credit Card
+T1157	22-08-2025	Yuvraj  Ratta	Female	26	Toys	5	42342	211710	North	Cash
+T1158	10-11-2025	Umang Gopal	Male	50	Home Appliances	9	32273	290457	West	Cash
+T1159	09-08-2025	Aniruddh Kibe	Male	43	Sports	3	33200	99600	North	Cash
+T1160	12-10-2025	Neysa Swamy	Female	26	Sports	4	30615	122460	North	Credit Card
+T1161	16-10-2025	Azad Dhaliwal	Female	40	Sports	4	6187	24748	South	Debit Card
+T1162	16-11-2025	Nitara Barad	Male	33	Sports	4	45491	181964	South	Debit Card
+T1163	08-04-2025	Lagan Sharaf	Female	56	Books	3	25166	75498	Central	Credit Card
+T1164	06-03-2025	Farhan Apte	Male	25	Footwear	2	14904	29808	North	Credit Card
+T1165	18-08-2025	Biju Swaminathan	Male	25	Grocery	3	42168	126504	Central	Debit Card
+T1166	01-10-2025	Nirvaan Dubey	Male	53	Grocery	1	1688	1688	West	Net Banking
+T1167	15-05-2025	Ayesha Garde	Male	43	Furniture	4	21091	84364	Central	Debit Card
+T1168	29-07-2025	Aaryahi Chand	Female	43	Grocery	5	31082	155410	South	Debit Card
+T1169	10-03-2025	Kiara Sahota	Male	51	Footwear	9	17991	161919	Central	Net Banking
+T1170	31-08-2025	Yuvraj  Bhattacharyya	Male	22	Footwear	4	20215	80860	North	Cash
+T1171	04-05-2025	Sahil Chandran	Male	27	Furniture	8	25082	200656	South	Debit Card
+T1172	06-12-2025	Mannat Kade	Male	43	Clothing	4	41123	164492	West	Credit Card
+T1173	14-02-2025	Yashvi Mand	Female	39	Books	5	28801	144005	South	UPI
+T1174	13-10-2025	Anvi Ramakrishnan	Male	25	Sports	6	3454	20724	West	Debit Card
+T1175	10-06-2025	Ritvik Bal	Female	30	Footwear	10	34693	346930	East	Credit Card
+T1176	01-02-2025	Adira Sidhu	Female	58	Furniture	5	17139	85695	East	Debit Card
+T1177	01-10-2025	Samarth Brahmbhatt	Female	19	Furniture	7	21903	153321	West	UPI
+T1178	10-07-2025	Riaan Dhillon	Female	24	Clothing	7	45505	318535	West	Net Banking
+T1179	15-01-2025	Misha Iyengar	Male	64	Furniture	5	23828	119140	West	Debit Card
+T1180	01-09-2025	Vedika Dass	Male	40	Toys	2	19021	38042	South	UPI
+T1181	05-05-2025	Emir Khalsa	Male	46	Grocery	4	4620	18480	East	Cash
+T1182	07-12-2025	Riaan Khalsa	Female	22	Sports	2	22117	44234	Central	UPI
+T1183	18-03-2025	Shaan Vaidya	Male	26	Sports	6	11686	70116	North	Cash
+T1184	31-10-2025	Dharmajan Arora	Male	32	Grocery	3	20843	62529	West	Debit Card
+T1185	28-08-2025	Siya Badami	Female	47	Home Appliances	6	38471	230826	East	Credit Card
+T1186	04-07-2025	Jhanvi Ramesh	Male	47	Home Appliances	5	33518	167590	Central	Net Banking
+T1187	11-07-2025	Alia Badal	Male	44	Furniture	2	33398	66796	East	UPI
+T1188	15-07-2025	Himmat Mann	Female	40	Footwear	2	6026	12052	West	Cash
+T1189	29-08-2025	Manikya Borde	Male	50	Clothing	10	14936	149360	Central	Debit Card
+T1190	03-08-2025	Mamooty Magar	Male	48	Beauty	4	22525	90100	East	Debit Card
+T1191	05-01-2025	Ryan Karan	Female	21	Electronics	7	26959	188713	East	Net Banking
+T1192	12-04-2025	Indranil Deshpande	Female	58	Clothing	4	48504	194016	South	Net Banking
+T1193	02-12-2025	Reyansh Kala	Female	64	Furniture	4	34848	139392	South	Credit Card
+T1194	20-09-2025	Miraya Datta	Female	64	Books	4	40941	163764	South	Cash
+T1195	06-08-2025	Stuvan Raval	Female	60	Beauty	2	30768	61536	Central	Debit Card
+T1196	23-11-2025	Elakshi Kant	Female	23	Electronics	1	22866	22866	South	Credit Card
+T1197	12-04-2025	Renee Sundaram	Male	58	Beauty	1	46784	46784	South	Debit Card
+T1198	21-04-2025	Kaira Borra	Female	56	Beauty	8	35974	287792	East	Cash
+T1199	12-06-2025	Tanya Khurana	Female	29	Furniture	2	22854	45708	East	Cash
+T1200	03-08-2025	Tiya Kant	Female	52	Sports	8	5090	40720	Central	Debit Card
+T1201	26-09-2025	Sahil Sehgal	Male	53	Electronics	4	29902	119608	West	Debit Card
+T1202	01-09-2025	Jivin Iyer	Female	19	Clothing	9	34894	314046	South	Cash
+T1203	08-03-2025	Shamik Sarma	Female	59	Clothing	7	37819	264733	North	Credit Card
+T1204	08-10-2025	Hazel Shukla	Female	24	Toys	7	4488	31416	North	Credit Card
+T1205	12-04-2025	Lavanya Sarkar	Female	22	Footwear	3	3311	9933	South	Cash
+T1206	27-01-2025	Adira Jani	Female	61	Books	6	21632	129792	West	Credit Card
+T1207	13-09-2025	Rati Kamdar	Male	34	Clothing	8	32631	261048	Central	UPI
+T1208	05-07-2025	Divyansh Wable	Female	56	Beauty	6	33540	201240	West	Debit Card
+T1209	06-10-2025	Veer Bhalla	Male	23	Sports	3	31259	93777	North	Credit Card
+T1210	01-02-2025	Anahita Tandon	Male	19	Sports	6	10114	60684	North	Cash
+T1211	06-05-2025	Vivaan Cherian	Male	43	Home Appliances	2	25226	50452	West	Cash
+T1212	18-06-2025	Vardaniya Soni	Female	19	Sports	1	3194	3194	Central	Cash
+T1213	10-07-2025	Ishaan Savant	Female	45	Sports	6	35621	213726	East	Debit Card
+T1214	06-05-2025	Manjari Srinivas	Female	32	Footwear	9	40638	365742	South	Credit Card
+T1215	01-06-2025	Hiran Krishnamurthy	Male	49	Sports	9	42999	386991	East	Debit Card
+T1216	21-11-2025	Raunak Lad	Female	36	Toys	8	5928	47424	West	Cash
+T1217	15-06-2025	Rohan Comar	Female	46	Sports	6	30141	180846	Central	UPI
+T1218	16-04-2025	Dhanush Raj	Female	63	Furniture	2	42433	84866	South	Net Banking
+T1219	14-12-2025	Aarna Madan	Female	31	Clothing	9	15332	137988	North	Cash
+T1220	09-07-2025	Tiya Vyas	Female	62	Grocery	8	973	7784	East	Cash
+T1221	14-07-2025	Jayan Ranganathan	Female	59	Grocery	1	2062	2062	Central	Cash
+T1222	18-08-2025	Nirvaan Bir	Female	31	Footwear	6	989	5934	East	Cash
+T1223	01-07-2025	Kanav Buch	Male	30	Home Appliances	8	47335	378680	North	Debit Card
+T1224	17-08-2025	Samiha Venkataraman	Female	57	Books	3	20402	61206	North	Cash
+T1225	27-12-2025	Aayush Banik	Female	20	Grocery	5	22214	111070	Central	UPI
+T1226	30-01-2025	Zeeshan Ganesh	Male	22	Clothing	6	27831	166986	Central	Debit Card
+T1227	25-12-2025	Rasha Amble	Male	26	Toys	4	18604	74416	East	Credit Card
+T1228	02-01-2025	Samaira Gaba	Female	50	Home Appliances	3	47266	141798	Central	Net Banking
+T1229	21-01-2025	Oorja Khare	Female	40	Furniture	6	37790	226740	North	UPI
+T1230	26-07-2025	Saksham Saini	Female	49	Sports	10	27200	272000	East	UPI
+T1231	01-07-2025	Advik Banik	Female	56	Toys	3	16213	48639	Central	Net Banking
+T1232	04-11-2025	Dhanush Dhar	Male	61	Grocery	1	43556	43556	West	Net Banking
+T1233	22-12-2025	Gatik Halder	Male	56	Electronics	2	2646	5292	East	Credit Card
+T1234	19-11-2025	Divit Mander	Male	55	Footwear	6	38280	229680	West	Debit Card
+T1235	29-11-2025	Madhav Varma	Male	65	Electronics	5	38696	193480	North	UPI
+T1236	06-06-2025	Madhav Tripathi	Female	39	Home Appliances	8	33015	264120	East	Net Banking
+T1237	27-12-2025	Nitya Sachar	Male	37	Footwear	7	15800	110600	East	Debit Card
+T1238	06-10-2025	Vardaniya Sibal	Male	59	Books	3	42596	127788	West	Net Banking
+T1239	03-06-2025	Kartik Bahl	Female	57	Electronics	10	44569	445690	Central	Cash
+T1240	10-03-2025	Farhan Gade	Male	60	Books	6	16237	97422	West	Debit Card
+T1241	17-04-2025	Adira Kaur	Female	33	Home Appliances	5	40112	200560	West	Net Banking
+T1242	09-02-2025	Kimaya Din	Male	39	Clothing	8	30872	246976	West	Net Banking
+T1243	10-07-2025	Aradhya Agate	Female	53	Books	7	26584	186088	East	Cash
+T1244	26-09-2025	Saira Chahal	Female	47	Furniture	10	32904	329040	West	UPI
+T1245	14-12-2025	Himmat Singh	Female	50	Electronics	9	45154	406386	East	Cash
+T1246	15-10-2025	Anya Taneja	Female	52	Books	7	20335	142345	Central	Credit Card
+T1247	01-09-2025	Nitya Koshy	Male	55	Beauty	4	36338	145352	East	Cash
+T1248	25-12-2025	Hansh Deol	Female	65	Books	2	8768	17536	Central	Net Banking
+T1249	26-08-2025	Anaya Saha	Male	19	Books	9	5988	53892	West	Cash
+T1250	28-05-2025	Adira Soni	Male	34	Furniture	6	36737	220422	East	UPI
+T1251	15-07-2025	Aaryahi Sodhi	Female	39	Electronics	4	37765	151060	West	UPI
+T1252	03-03-2025	Mamooty Bhatia	Female	19	Furniture	1	16112	16112	North	Credit Card
+T1253	25-05-2025	Vanya Chanda	Female	36	Furniture	4	44659	178636	Central	Debit Card
+T1254	09-04-2025	Prisha Loke	Male	44	Electronics	4	23387	93548	North	Cash
+T1255	24-04-2025	Akarsh Kade	Female	25	Furniture	9	12726	114534	Central	UPI
+T1256	01-06-2025	Kimaya Madan	Female	20	Sports	5	19879	99395	Central	UPI
+T1257	17-06-2025	Darshit Tella	Female	44	Electronics	9	44024	396216	North	Net Banking
+T1258	30-12-2025	Zaina Balan	Male	19	Footwear	10	41561	415610	North	Debit Card
+T1259	03-10-2025	Prerak Sundaram	Female	48	Electronics	2	44874	89748	South	Net Banking
+T1260	18-03-2025	Vaibhav Keer	Male	39	Grocery	1	40540	40540	Central	Net Banking
+T1261	17-09-2025	Ivan Krish	Female	46	Home Appliances	8	37171	297368	Central	Credit Card
+T1262	26-08-2025	Vihaan Mani	Male	60	Sports	6	9482	56892	East	Debit Card
+T1263	23-05-2025	Anya Rattan	Male	29	Toys	8	16581	132648	South	Credit Card
+T1264	07-11-2025	Miraya Jha	Male	41	Electronics	10	39310	393100	West	Cash
+T1265	21-02-2025	Ranbir Sheth	Female	33	Electronics	9	11483	103347	East	Net Banking
+T1266	01-05-2025	Indrans Ganesan	Male	25	Electronics	5	20977	104885	West	Net Banking
+T1267	28-10-2025	Drishya Varghese	Female	33	Home Appliances	2	28691	57382	Central	Net Banking
+T1268	07-10-2025	Anahita Wable	Male	55	Home Appliances	4	25843	103372	West	Cash
+T1269	26-03-2025	Trisha Dhingra	Female	25	Electronics	1	3971	3971	East	Credit Card
+T1270	05-10-2025	Akarsh Sethi	Male	57	Toys	7	21714	151998	East	Net Banking
+T1271	23-03-2025	Chirag Dalal	Female	18	Furniture	9	34574	311166	East	UPI
+T1272	27-12-2025	Navya Batra	Female	39	Electronics	6	12503	75018	East	UPI
+T1273	15-11-2025	Purab Kari	Male	34	Furniture	8	12024	96192	East	UPI
+T1274	21-12-2025	Ranbir Walla	Female	65	Sports	8	13356	106848	West	UPI
+T1275	31-05-2025	Eva Suresh	Female	55	Clothing	3	5446	16338	South	Cash
+T1276	18-04-2025	Uthkarsh Karnik	Female	18	Home Appliances	5	48344	241720	West	Debit Card
+T1277	22-08-2025	Dhanush Barad	Female	58	Electronics	10	36095	360950	West	Cash
+T1278	27-07-2025	Trisha Ram	Male	48	Home Appliances	8	19198	153584	Central	Credit Card
+T1279	03-10-2025	Veer Kannan	Male	34	Electronics	10	27310	273100	Central	UPI
+T1280	02-06-2025	Nirvi Chaudry	Male	37	Toys	7	24493	171451	Central	Credit Card
+T1281	14-12-2025	Aniruddh Bhandari	Female	38	Footwear	3	5197	15591	Central	Debit Card
+T1282	08-06-2025	Bhavin Majumdar	Female	64	Electronics	10	33907	339070	East	UPI
+T1283	20-04-2025	Khushi Chaudhuri	Male	47	Grocery	9	30263	272367	West	UPI
+T1284	11-11-2025	Manikya Ranganathan	Male	41	Beauty	8	14868	118944	East	Net Banking
+T1285	02-01-2025	Dhanush Hora	Male	53	Furniture	7	35068	245476	South	Credit Card
+T1286	07-01-2025	Biju Kala	Female	47	Furniture	3	15200	45600	Central	Credit Card
+T1287	31-01-2025	Baiju Dhaliwal	Male	23	Footwear	9	46133	415197	East	Credit Card
+T1288	11-04-2025	Vidur Doshi	Male	57	Sports	8	9080	72640	North	Credit Card
+T1289	21-05-2025	Akarsh Chauhan	Male	38	Toys	4	12635	50540	North	Debit Card
+T1290	20-09-2025	Ayesha Chandran	Male	24	Home Appliances	2	21381	42762	South	Cash
+T1291	04-07-2025	Kashvi Dara	Female	62	Clothing	9	30388	273492	North	Credit Card
+T1292	23-04-2025	Adah Bala	Female	62	Toys	7	21463	150241	South	Credit Card
+T1293	13-10-2025	Ishaan Bera	Female	42	Grocery	2	28829	57658	Central	Net Banking
+T1294	27-06-2025	Nishith Balasubramanian	Female	38	Furniture	1	46272	46272	Central	Cash
+T1295	16-04-2025	Hrishita Ben	Female	56	Footwear	5	29188	145940	West	Credit Card
+T1296	01-01-2026	Seher Dayal	Male	31	Beauty	1	39426	39426	West	UPI
+T1297	28-12-2025	Samiha Saha	Female	33	Books	2	13015	26030	North	Cash
+T1298	29-10-2025	Himmat Kale	Female	30	Beauty	8	23986	191888	Central	Credit Card
+T1299	30-08-2025	Navya Iyengar	Female	63	Clothing	10	43313	433130	West	Credit Card
+T1300	11-05-2025	Hridaan Sharaf	Female	29	Sports	7	13166	92162	East	Credit Card
+T1301	05-09-2025	Zeeshan Krishnan	Female	24	Sports	7	3300	23100	North	Credit Card
+T1302	04-05-2025	Veer Tiwari	Male	28	Electronics	1	42373	42373	West	Debit Card
+T1303	03-09-2025	Hunar Badal	Male	57	Electronics	8	20827	166616	Central	Net Banking
+T1304	11-07-2025	Damini Soman	Male	58	Footwear	10	27670	276700	Central	UPI
+T1305	07-12-2025	Khushi Mahal	Female	33	Books	4	4381	17524	North	UPI
+T1306	27-04-2025	Advika Gopal	Male	41	Books	2	35549	71098	East	Net Banking
+T1307	28-06-2025	Veer Dutta	Male	24	Toys	9	31914	287226	North	Credit Card
+T1308	15-07-2025	Azad Bahl	Male	42	Home Appliances	9	43004	387036	South	Cash
+T1309	14-03-2025	Divit Borah	Male	28	Beauty	2	48063	96126	South	Net Banking
+T1310	15-05-2025	Ivan Tailor	Male	52	Electronics	2	14900	29800	South	Credit Card
+T1311	14-07-2025	Yakshit Kade	Female	32	Clothing	4	37026	148104	West	Credit Card
+T1312	07-12-2025	Tara Jani	Female	53	Furniture	5	43959	219795	East	Net Banking
+T1313	27-12-2025	Saksham Ray	Female	52	Furniture	4	36712	146848	South	Credit Card
+T1314	22-03-2025	Ishaan Bansal	Male	58	Sports	1	31551	31551	East	Debit Card
+T1315	30-07-2025	Mamooty Toor	Female	40	Electronics	10	10894	108940	East	UPI
+T1316	02-09-2025	Piya Cheema	Male	63	Electronics	3	34755	104265	East	Net Banking
+T1317	08-12-2025	Faiyaz Swamy	Female	31	Footwear	6	46302	277812	West	UPI
+T1318	14-10-2025	Adah Sant	Male	56	Furniture	4	11034	44136	South	Debit Card
+T1319	17-11-2025	Divyansh Khanna	Male	51	Sports	8	30521	244168	Central	Cash
+T1320	25-10-2025	Umang Dora	Male	41	Toys	3	9528	28584	South	Credit Card
+T1321	19-08-2025	Bhamini Gera	Female	65	Sports	10	37020	370200	East	Cash
+T1322	20-01-2025	Piya Kannan	Female	47	Grocery	9	19885	178965	East	Cash
+T1323	01-10-2025	Kanav Gara	Male	39	Grocery	10	16995	169950	South	Debit Card
+T1324	13-10-2025	Hazel Dugar	Female	65	Electronics	2	12612	25224	Central	UPI
+T1325	11-01-2025	Himmat Bansal	Female	19	Clothing	1	4243	4243	South	Net Banking
+T1326	13-10-2025	Amira Dalal	Male	60	Toys	10	10308	103080	North	Credit Card
+T1327	24-10-2025	Zoya Bajaj	Female	23	Home Appliances	6	13301	79806	North	Cash
+T1328	19-07-2025	Jhanvi Dass	Female	62	Toys	5	42985	214925	North	Credit Card
+T1329	24-11-2025	Misha Saran	Male	29	Home Appliances	1	44899	44899	Central	Net Banking
+T1330	06-08-2025	Manikya Ganguly	Male	30	Footwear	3	38887	116661	South	Credit Card
+T1331	04-11-2025	Tara Bawa	Female	42	Sports	7	23468	164276	Central	Net Banking
+T1332	24-07-2025	Vritika Badami	Female	30	Grocery	3	17369	52107	South	Debit Card
+T1333	29-05-2025	Mahika Shanker	Female	35	Home Appliances	8	7514	60112	East	Credit Card
+T1334	27-11-2025	Kiaan Sodhi	Male	22	Books	6	39359	236154	South	Debit Card
+T1335	20-04-2025	Dhanush Khalsa	Male	56	Books	4	21920	87680	East	Net Banking
+T1336	28-09-2025	Tara Bhattacharyya	Female	24	Toys	5	25586	127930	North	Credit Card
+T1337	09-04-2025	Piya Dua	Female	42	Books	2	30486	60972	Central	UPI
+T1338	06-02-2025	Dharmajan Dewan	Male	64	Furniture	10	33404	334040	North	Cash
+T1339	22-02-2025	Neysa Baral	Female	61	Books	6	9259	55554	East	Cash
+T1340	30-12-2025	Mohanlal Iyer	Male	36	Furniture	6	2869	17214	East	Debit Card
+T1341	24-08-2025	Pihu Bhandari	Female	60	Furniture	10	43783	437830	Central	Cash
+T1342	21-08-2025	Tara Kuruvilla	Male	47	Grocery	8	39567	316536	Central	Net Banking
+T1343	26-04-2025	Zaina Arya	Male	30	Sports	8	43393	347144	Central	Cash
+T1344	17-12-2025	Umang Majumdar	Female	65	Toys	10	2261	22610	Central	Debit Card
+T1345	28-09-2025	Fateh Dhawan	Male	62	Electronics	6	34582	207492	South	Cash
+T1346	13-01-2025	Tara Rattan	Female	61	Sports	10	2772	27720	Central	Cash
+T1347	24-11-2025	Stuvan Bhat	Female	52	Clothing	10	10720	107200	South	UPI
+T1348	09-01-2025	Kimaya Kari	Female	41	Toys	2	41666	83332	Central	Debit Card
+T1349	24-06-2025	Shaan Bakshi	Male	44	Footwear	3	43824	131472	North	Cash
+T1350	25-08-2025	Divij Kadakia	Male	24	Toys	2	18171	36342	Central	UPI
+T1351	04-05-2025	Aarush Balakrishnan	Male	26	Beauty	6	27074	162444	East	Debit Card
+T1352	26-08-2025	Anya Sehgal	Female	29	Toys	1	2102	2102	Central	Net Banking
+T1353	13-07-2025	Lavanya Hora	Female	60	Grocery	6	2817	16902	South	Credit Card
+T1354	01-10-2025	Mehul Keer	Male	28	Grocery	5	49318	246590	West	Debit Card
+T1355	09-03-2025	Zaina Karnik	Male	57	Footwear	8	47287	378296	West	Cash
+T1356	25-06-2025	Emir Kapoor	Female	52	Furniture	9	25421	228789	West	UPI
+T1357	25-04-2025	Tara Dar	Female	26	Beauty	3	24526	73578	South	Debit Card
+T1358	31-12-2025	Bhamini Sharma	Male	41	Sports	6	23851	143106	East	UPI
+T1359	12-07-2025	Taimur Bhalla	Female	61	Footwear	4	40937	163748	East	UPI
+T1360	19-06-2025	Zeeshan Sachar	Female	41	Books	10	2398	23980	East	Credit Card
+T1361	04-11-2025	Kiaan Banik	Male	41	Footwear	4	39024	156096	North	Cash
+T1362	31-07-2025	Divit Karnik	Female	18	Sports	6	42152	252912	West	UPI
+T1363	29-12-2025	Nirvi Wable	Male	24	Home Appliances	10	41454	414540	North	Debit Card
+T1364	29-08-2025	Shanaya Boase	Male	24	Footwear	10	41487	414870	South	Credit Card
+T1365	17-12-2025	Khushi Jaggi	Female	45	Footwear	6	32568	195408	East	Debit Card
+T1366	09-04-2025	Elakshi Srinivas	Female	44	Grocery	2	45610	91220	North	Credit Card
+T1367	02-06-2025	Manjari Bhattacharyya	Female	39	Electronics	6	4260	25560	North	Credit Card
+T1368	27-04-2025	Yakshit Sahota	Male	18	Footwear	6	8239	49434	East	Credit Card
+T1369	02-01-2025	Elakshi Toor	Male	46	Sports	6	41326	247956	North	Cash
+T1370	24-02-2025	Gokul Doshi	Male	40	Grocery	6	33219	199314	Central	Net Banking
+T1371	03-06-2025	Pranay Sathe	Male	53	Footwear	8	28818	230544	East	Net Banking
+T1372	04-03-2025	Ela Badami	Female	57	Furniture	5	2840	14200	East	Debit Card
+T1373	05-02-2025	Yasmin Rajan	Male	52	Toys	4	9606	38424	South	Cash
+T1374	29-08-2025	Abram Bose	Male	41	Home Appliances	5	43429	217145	Central	Debit Card
+T1375	26-10-2025	Kashvi Mandal	Male	18	Toys	10	25244	252440	Central	Cash
+T1376	17-11-2025	Vivaan Ratti	Female	53	Clothing	4	1662	6648	West	UPI
+T1377	06-01-2025	Yuvraj  Tata	Female	61	Electronics	1	5530	5530	North	Cash
+T1378	25-07-2025	Vihaan Lad	Male	58	Clothing	5	25383	126915	South	Debit Card
+T1379	28-06-2025	Fateh Agate	Male	23	Books	5	12884	64420	South	UPI
+T1380	15-12-2025	Uthkarsh Gola	Female	52	Beauty	4	12793	51172	Central	Credit Card
+T1381	08-03-2025	Aniruddh Lad	Male	29	Furniture	6	45708	274248	East	Net Banking
+T1382	21-05-2025	Samiha Kala	Male	31	Footwear	3	13574	40722	South	Credit Card
+T1383	03-07-2025	Riya Baral	Female	37	Clothing	4	40095	160380	North	Net Banking
+T1384	26-02-2025	Vidur Chad	Male	45	Home Appliances	7	39983	279881	South	UPI
+T1385	22-09-2025	Lakshit Kale	Male	30	Toys	4	48070	192280	West	Net Banking
+T1386	23-07-2025	Manjari Sami	Female	55	Furniture	5	40087	200435	Central	Cash
+T1387	22-11-2025	Jivin Chawla	Male	19	Beauty	4	32886	131544	Central	Cash
+T1388	11-05-2025	Riya Jaggi	Female	56	Home Appliances	1	1017	1017	South	UPI
+T1389	28-10-2025	Kabir Bhatia	Female	20	Toys	4	45104	180416	East	Cash
+T1390	23-02-2025	Faiyaz Wadhwa	Male	41	Books	2	3971	7942	Central	Net Banking
+T1391	09-12-2025	Hrishita Dara	Female	57	Books	8	38601	308808	Central	Net Banking
+T1392	23-11-2025	Heer Rajagopalan	Female	25	Books	1	2829	2829	East	Net Banking
+T1393	04-05-2025	Indranil Balan	Female	29	Beauty	6	16805	100830	West	UPI
+T1394	23-07-2025	Indrans Reddy	Male	44	Footwear	6	16143	96858	Central	Credit Card
+T1395	31-12-2025	Jiya Shan	Female	29	Furniture	1	10301	10301	South	Credit Card
+T1396	07-11-2025	Ritvik Brahmbhatt	Female	53	Grocery	2	25477	50954	East	Net Banking
+T1397	07-10-2025	Sana Seshadri	Female	63	Footwear	5	35219	176095	South	Credit Card
+T1398	30-11-2025	Anika Bhalla	Female	36	Footwear	6	34671	208026	West	Debit Card
+T1399	21-06-2025	Darshit Chand	Male	53	Clothing	10	48593	485930	East	UPI
+T1400	12-03-2025	Hiran Ravel	Male	18	Grocery	9	2214	19926	Central	Net Banking
+T1401	22-01-2025	Hridaan Saran	Female	26	Clothing	3	42651	127953	East	Debit Card
+T1402	26-09-2025	Taran Bhasin	Female	57	Clothing	10	4144	41440	Central	Credit Card
+T1403	22-09-2025	Rhea Sunder	Male	30	Electronics	7	10796	75572	South	Net Banking
+T1404	13-09-2025	Chirag Chaudhuri	Female	38	Footwear	6	34437	206622	West	Cash
+T1405	31-12-2025	Rania Krish	Female	48	Books	5	39522	197610	East	Debit Card
+T1406	05-11-2025	Divyansh Chaudhari	Female	56	Furniture	4	10023	40092	West	Net Banking
+T1407	13-02-2025	Divyansh Brahmbhatt	Male	50	Grocery	6	36637	219822	West	Cash
+T1408	06-11-2025	Bhavin Kota	Male	50	Home Appliances	10	49086	490860	South	Cash
+T1409	13-08-2025	Hazel Basu	Male	30	Sports	9	8166	73494	North	Debit Card
+T1410	14-11-2025	Bhamini Talwar	Male	19	Footwear	7	1397	9779	South	Credit Card
+T1411	21-05-2025	Ivana Behl	Male	50	Sports	4	43469	173876	Central	Credit Card
+T1412	02-01-2025	Ahana  Vohra	Male	40	Clothing	2	6893	13786	West	Cash
+T1413	16-11-2025	Aarna Bhasin	Male	37	Electronics	9	15243	137187	Central	Cash
+T1414	28-11-2025	Ishita Dayal	Female	50	Home Appliances	7	35985	251895	West	Debit Card
+T1415	06-02-2025	Samiha Garde	Female	47	Beauty	4	16413	65652	North	Debit Card
+T1416	30-10-2025	Gatik Mannan	Female	18	Clothing	6	7418	44508	Central	Net Banking
+T1417	11-08-2025	Anika Kade	Male	56	Toys	4	2961	11844	Central	UPI
+T1418	25-09-2025	Khushi Kurian	Female	33	Home Appliances	5	15658	78290	South	UPI
+T1419	03-01-2025	Indrajit Balan	Female	31	Electronics	7	28475	199325	West	Credit Card
+T1420	27-12-2025	Ivan Salvi	Female	21	Electronics	7	27751	194257	East	UPI
+T1421	26-01-2025	Saksham Kala	Male	27	Footwear	7	42446	297122	North	UPI
+T1422	28-02-2025	Madhup Chacko	Male	57	Grocery	7	44267	309869	East	Net Banking
+T1423	10-09-2025	Nehmat Toor	Female	52	Grocery	7	42787	299509	South	Credit Card
+T1424	03-04-2025	Shray Dada	Male	35	Beauty	7	14433	101031	North	Net Banking
+T1425	30-05-2025	Divyansh Ratta	Male	33	Books	9	12397	111573	Central	Net Banking
+T1426	24-06-2025	Lakshay Khalsa	Male	43	Grocery	3	42557	127671	South	Debit Card
+T1427	23-10-2025	Madhav Mall	Male	22	Books	1	17738	17738	Central	Credit Card
+T1428	15-06-2025	Sahil Ratta	Male	42	Grocery	7	10803	75621	East	Credit Card
+T1429	04-10-2025	Rohan Mammen	Female	25	Home Appliances	5	21145	105725	North	Debit Card
+T1430	16-11-2025	Mamooty Kaul	Female	63	Beauty	9	42799	385191	East	UPI
+T1431	11-06-2025	Rhea Badami	Female	60	Clothing	10	44249	442490	Central	Debit Card
+T1432	01-09-2025	Keya Sami	Male	48	Electronics	6	47295	283770	Central	Net Banking
+T1433	15-03-2025	Mehul Mannan	Female	49	Furniture	8	48261	386088	East	Cash
+T1434	28-06-2025	Zara Cheema	Male	43	Books	3	33937	101811	South	Credit Card
+T1435	28-12-2025	Krish Tak	Female	29	Home Appliances	8	20125	161000	East	Net Banking
+T1436	04-01-2025	Inaaya  Ramaswamy	Male	39	Beauty	9	10689	96201	West	UPI
+T1437	15-02-2025	Trisha Sanghvi	Female	65	Electronics	4	161	644	West	Cash
+T1438	15-02-2025	Tanya Gokhale	Male	60	Toys	10	14578	145780	North	Cash
+T1439	18-06-2025	Urvi Kaul	Female	24	Home Appliances	6	19681	118086	North	UPI
+T1440	31-05-2025	Aradhya Sarkar	Male	39	Toys	10	22353	223530	Central	UPI
+T1441	23-11-2025	Bhavin Handa	Male	50	Beauty	7	22526	157682	South	Debit Card
+T1442	20-08-2025	Piya Shere	Female	28	Home Appliances	8	32417	259336	West	UPI
+T1443	02-01-2025	Kimaya Chakraborty	Female	23	Toys	2	29553	59106	West	Cash
+T1444	01-03-2025	Seher Hayre	Male	38	Beauty	8	44386	355088	Central	Debit Card
+T1445	12-05-2025	Renee Kapur	Male	46	Books	10	12250	122500	Central	Debit Card
+T1446	04-01-2025	Aarna Sibal	Female	65	Toys	3	29975	89925	South	UPI
+T1447	01-02-2025	Pari Sandal	Male	34	Clothing	5	48706	243530	North	UPI
+T1448	16-11-2025	Advik Shankar	Male	19	Sports	6	19004	114024	East	UPI
+T1449	10-02-2025	Uthkarsh Setty	Male	62	Furniture	8	49385	395080	Central	Net Banking
+T1450	13-07-2025	Piya Shroff	Male	22	Beauty	8	35182	281456	South	Net Banking
+T1451	29-12-2025	Sumer Chopra	Female	19	Grocery	4	35365	141460	South	Credit Card
+T1452	20-09-2025	Ivana Dalal	Male	27	Home Appliances	6	37142	222852	Central	Net Banking
+T1453	12-12-2025	Rasha Vora	Female	20	Beauty	5	30494	152470	West	Cash
+T1454	25-01-2025	Madhup Varma	Male	43	Clothing	7	34649	242543	West	Debit Card
+T1455	06-10-2025	Purab Acharya	Male	33	Home Appliances	8	31049	248392	East	Credit Card
+T1456	26-11-2025	Shamik Mane	Female	60	Footwear	10	31817	318170	North	Credit Card
+T1457	03-06-2025	Samaira Goyal	Male	41	Furniture	4	16064	64256	Central	UPI
+T1458	06-09-2025	Vedika Suri	Female	47	Electronics	8	28199	225592	West	Credit Card
+T1459	09-08-2025	Pari Rao	Male	53	Beauty	2	16363	32726	Central	Net Banking
+T1460	28-12-2025	Eshani Varma	Male	32	Clothing	1	30561	30561	North	Credit Card
+T1461	12-10-2025	Vivaan Char	Male	50	Footwear	5	49291	246455	West	Credit Card
+T1462	15-10-2025	Raunak Manda	Male	25	Electronics	7	28740	201180	South	UPI
+T1463	08-04-2025	Shayak Seshadri	Male	42	Electronics	10	24100	241000	North	Cash
+T1464	07-03-2025	Advika Wadhwa	Male	57	Books	1	46451	46451	South	UPI
+T1465	02-04-2025	Sahil Kata	Female	33	Toys	8	45706	365648	North	Credit Card
+T1466	03-08-2025	Kiaan Kale	Male	43	Footwear	9	28043	252387	Central	Net Banking
+T1467	08-05-2025	Saksham Tella	Male	38	Furniture	3	21372	64116	South	UPI
+T1468	16-07-2025	Nishith Kara	Female	22	Toys	4	41378	165512	South	Debit Card
+T1469	07-12-2025	Jayant Sangha	Female	35	Footwear	7	44589	312123	Central	Credit Card
+T1470	06-10-2025	Shayak Iyer	Female	57	Home Appliances	10	20370	203700	West	UPI
+T1471	06-08-2025	Inaaya  Lad	Male	33	Footwear	10	25471	254710	East	UPI
+T1472	13-06-2025	Tara Saini	Male	56	Footwear	6	3821	22926	North	Cash
+T1473	06-08-2025	Divij Dutta	Female	45	Sports	4	37138	148552	East	Cash
+T1474	08-03-2025	Arhaan Shetty	Male	49	Sports	3	7955	23865	North	Debit Card
+T1475	01-08-2025	Madhav Arora	Male	65	Clothing	6	44455	266730	West	Cash
+T1476	22-06-2025	Priyansh Bal	Male	23	Home Appliances	5	44470	222350	Central	Debit Card
+T1477	29-09-2025	Jhanvi Dalal	Female	28	Home Appliances	5	40110	200550	East	Debit Card
+T1478	14-02-2025	Abram Bedi	Female	43	Home Appliances	5	35471	177355	South	UPI
+T1479	11-07-2025	Raghav Buch	Female	35	Clothing	10	2957	29570	North	UPI
+T1480	02-01-2025	Shlok Dalal	Female	34	Electronics	9	39764	357876	South	Debit Card
+T1481	04-03-2025	Kanav Bava	Female	62	Sports	6	32796	196776	Central	Debit Card
+T1482	01-11-2025	Zaina Agate	Female	33	Beauty	4	26690	106760	Central	Cash
+T1483	09-05-2025	Vedika Bhatia	Male	47	Home Appliances	2	31532	63064	South	Cash
+T1484	01-06-2025	Yakshit Borah	Female	38	Toys	4	47692	190768	North	Credit Card
+T1485	22-09-2025	Farhan Goel	Female	43	Electronics	6	36724	220344	East	UPI
+T1486	17-11-2025	Yuvaan Manda	Male	54	Electronics	7	10015	70105	South	Net Banking
+T1487	08-01-2025	Krish Basu	Male	39	Beauty	6	42931	257586	Central	Debit Card
+T1488	14-09-2025	Ahana  Arora	Male	40	Grocery	5	36549	182745	West	UPI
+T1489	07-10-2025	Ivana Khanna	Male	25	Books	8	23542	188336	South	Credit Card
+T1490	13-08-2025	Tara Mannan	Male	31	Furniture	4	2374	9496	East	Cash
+T1491	25-03-2025	Alisha Master	Male	65	Footwear	2	48061	96122	West	Net Banking
+T1492	22-11-2025	Hiran Rajan	Male	61	Furniture	9	2399	21591	East	Debit Card
+T1493	04-08-2025	Eva Sood	Female	60	Electronics	5	22498	112490	East	Net Banking
+T1494	08-09-2025	Akarsh Tiwari	Female	65	Books	9	4203	37827	South	Net Banking
+T1495	12-08-2025	Zaina Rajagopal	Female	54	Footwear	10	3074	30740	West	UPI
+T1496	26-03-2025	Shray Varkey	Male	43	Toys	9	3883	34947	Central	UPI
+T1497	27-06-2025	Arnav Barad	Female	24	Toys	9	25048	225432	East	UPI
+T1498	24-07-2025	Veer Kumer	Female	64	Books	1	14380	14380	East	Cash
+T1499	16-05-2025	Prisha Ray	Male	23	Beauty	8	49136	393088	North	Net Banking
+T1500	12-11-2025	Armaan Chawla	Female	64	Sports	6	32283	193698	North	Net Banking
+T1501	12-06-2025	Anya Sant	Female	20	Home Appliances	2	31754	63508	South	Credit Card
+T1502	05-06-2025	Shanaya Vaidya	Male	26	Sports	9	1656	14904	North	Cash
+T1503	13-04-2025	Ishita Bala	Female	57	Clothing	1	45901	45901	Central	Net Banking
+T1504	22-11-2025	Samiha Bhatia	Female	18	Home Appliances	1	20308	20308	South	Debit Card
+T1505	05-03-2025	Uthkarsh Kulkarni	Female	27	Toys	6	11054	66324	West	UPI
+T1506	27-08-2025	Taran Mallick	Male	56	Grocery	5	48090	240450	South	Credit Card
+T1507	10-05-2025	Chirag Jaggi	Female	63	Books	1	21793	21793	South	UPI
+T1508	24-02-2025	Samiha Gopal	Male	63	Grocery	10	28004	280040	West	Credit Card
+T1509	30-08-2025	Umang Korpal	Female	43	Toys	7	29135	203945	East	Debit Card
+T1510	01-05-2025	Tiya Batra	Female	40	Home Appliances	3	23183	69549	East	Net Banking
+T1511	21-05-2025	Vaibhav Tank	Female	60	Electronics	7	6768	47376	East	Debit Card
+T1512	13-12-2025	Jayan Mall	Female	29	Beauty	2	3438	6876	South	Cash
+T1513	27-03-2025	Fateh Bora	Male	54	Footwear	8	5791	46328	North	Cash
+T1514	20-04-2025	Baiju Bail	Male	59	Grocery	9	31745	285705	East	Net Banking
+T1515	17-09-2025	Shanaya Gill	Female	42	Clothing	7	3985	27895	West	Net Banking
+T1516	07-07-2025	Indrans Ratti	Female	49	Home Appliances	1	7299	7299	West	Credit Card
+T1517	31-03-2025	Anahita Bajaj	Female	21	Clothing	8	34192	273536	West	UPI
+T1518	19-06-2025	Kiara Sengupta	Female	33	Toys	4	48803	195212	South	Cash
+T1519	20-01-2025	Zeeshan Baral	Male	63	Home Appliances	1	10123	10123	South	Cash
+T1520	26-11-2025	Kaira Raja	Female	31	Electronics	10	6454	64540	West	Debit Card
+T1521	23-01-2025	Ehsaan Dewan	Male	65	Beauty	9	13963	125667	North	UPI
+T1522	22-09-2025	Fateh Sunder	Male	48	Sports	8	17589	140712	West	Credit Card
+T1523	08-11-2025	Stuvan Garg	Male	19	Furniture	9	42468	382212	Central	Credit Card
+T1524	25-08-2025	Yuvraj  Dash	Male	33	Clothing	10	5581	55810	South	UPI
+T1525	28-10-2025	Indranil Kala	Male	61	Home Appliances	3	24883	74649	Central	Credit Card
+T1526	26-06-2025	Faiyaz Chhabra	Female	41	Clothing	5	31529	157645	South	Net Banking
+T1527	24-12-2025	Miraan Dubey	Female	33	Home Appliances	8	42252	338016	West	Cash
+T1528	12-12-2025	Devansh Sahota	Male	25	Furniture	9	12178	109602	Central	Credit Card
+T1529	15-08-2025	Sumer Toor	Male	35	Home Appliances	10	7531	75310	East	Cash
+T1530	08-06-2025	Azad Kata	Female	62	Electronics	7	1460	10220	South	Net Banking
+T1531	22-04-2025	Indrajit Dara	Female	59	Home Appliances	10	48214	482140	South	UPI
+T1532	20-08-2025	Riya Bhat	Male	39	Grocery	7	20222	141554	Central	Debit Card
+T1533	01-10-2025	Uthkarsh Viswanathan	Female	52	Beauty	7	4365	30555	South	Credit Card
+T1534	09-04-2025	Yakshit Rastogi	Male	32	Clothing	8	4375	35000	Central	Credit Card
+T1535	30-06-2025	Lavanya Swaminathan	Female	65	Footwear	1	29662	29662	South	Cash
+T1536	06-10-2025	Mahika Din	Male	48	Books	6	47142	282852	South	Debit Card
+T1537	03-01-2025	Jiya Kapur	Male	54	Toys	8	19005	152040	North	Net Banking
+T1538	21-09-2025	Dishani Dewan	Male	63	Home Appliances	4	32123	128492	East	UPI
+T1539	04-01-2025	Tanya Khatri	Male	57	Sports	8	3942	31536	Central	UPI
+T1540	20-04-2025	Nirvi Gole	Male	40	Sports	6	20184	121104	North	Net Banking
+T1541	09-10-2025	Faiyaz Desai	Female	43	Footwear	8	42787	342296	East	Cash
+T1542	25-10-2025	Saanvi Saraf	Male	45	Grocery	2	24993	49986	North	UPI
+T1543	10-05-2025	Khushi Kumer	Male	56	Clothing	6	40225	241350	South	Credit Card
+T1544	19-02-2025	Divij Sanghvi	Male	23	Electronics	10	32086	320860	Central	Debit Card
+T1545	31-08-2025	Urvi Baral	Female	19	Furniture	9	26375	237375	South	UPI
+T1546	20-11-2025	Uthkarsh Ganesan	Male	53	Clothing	9	28421	255789	East	Net Banking
+T1547	22-10-2025	Shaan Amble	Male	24	Electronics	3	13154	39462	East	Debit Card
+T1548	07-12-2025	Umang Viswanathan	Male	54	Books	10	25216	252160	South	Cash
+T1549	11-07-2025	Aaryahi Kibe	Female	24	Electronics	2	15166	30332	East	Cash
+T1550	25-09-2025	Nitara Devi	Female	56	Footwear	3	49097	147291	Central	Net Banking
+T1551	26-07-2025	Mohanlal Yohannan	Male	47	Home Appliances	5	10211	51055	South	Net Banking
+T1552	05-07-2025	Shaan Kuruvilla	Male	38	Beauty	6	48813	292878	Central	Credit Card
+T1553	07-11-2025	Badal Mani	Female	40	Books	2	28046	56092	South	Credit Card
+T1554	04-06-2025	Zeeshan Savant	Male	37	Toys	1	34933	34933	Central	Net Banking
+T1555	20-06-2025	Priyansh Raju	Male	48	Clothing	5	14743	73715	East	Debit Card
+T1556	06-08-2025	Vardaniya Gade	Male	26	Home Appliances	7	41532	290724	West	Cash
+T1557	11-12-2025	Vanya Deol	Female	53	Books	8	34812	278496	South	Credit Card
+T1558	15-05-2025	Abram Dhawan	Male	30	Furniture	10	15143	151430	Central	Cash
+T1559	10-10-2025	Aayush Shenoy	Male	31	Furniture	7	38169	267183	North	Credit Card
+T1560	06-07-2025	Lakshit Singh	Male	57	Sports	4	48751	195004	East	Cash
+T1561	29-12-2025	Dhanush Choudhary	Female	55	Toys	2	1437	2874	South	UPI
+T1562	05-10-2025	Nishith Dar	Female	18	Home Appliances	7	2691	18837	East	UPI
+T1563	24-01-2025	Mehul Ganguly	Female	44	Toys	10	6983	69830	West	UPI
+T1564	02-04-2025	Anahi Balay	Male	28	Electronics	2	44452	88904	East	Cash
+T1565	24-03-2025	Vidur Apte	Male	65	Furniture	1	35879	35879	East	Cash
+T1566	17-03-2025	Renee Magar	Female	29	Books	3	4828	14484	Central	Credit Card
+T1567	07-11-2025	Hrishita Sridhar	Male	38	Home Appliances	4	45826	183304	East	Net Banking
+T1568	16-07-2025	Jhanvi Sem	Male	28	Grocery	6	5148	30888	East	Cash
+T1569	08-07-2025	Zaina Khare	Male	45	Clothing	8	8598	68784	North	UPI
+T1570	22-06-2025	Shray Sehgal	Female	32	Beauty	2	40490	80980	South	Cash
+T1571	10-08-2025	Ehsaan Loyal	Female	33	Grocery	3	5594	16782	North	Credit Card
+T1572	10-06-2025	Purab Aggarwal	Female	27	Clothing	6	4510	27060	South	Credit Card
+T1573	29-01-2025	Vaibhav Gola	Male	42	Grocery	9	34561	311049	East	UPI
+T1574	27-12-2025	Riaan Cheema	Female	54	Electronics	7	43171	302197	East	UPI
+T1575	27-03-2025	Kanav Rastogi	Female	19	Home Appliances	2	23551	47102	South	Net Banking
+T1576	22-08-2025	Parinaaz Dhar	Male	62	Clothing	10	28436	284360	North	Net Banking
+T1577	22-09-2025	Hunar Bhatnagar	Male	18	Books	9	13905	125145	Central	Net Banking
+T1578	03-07-2025	Rasha Sule	Male	20	Footwear	2	4868	9736	West	Net Banking
+T1579	16-01-2025	Miraan Shukla	Male	48	Furniture	3	47756	143268	Central	Net Banking
+T1580	16-07-2025	Vedika Gokhale	Male	47	Grocery	3	42671	128013	Central	Credit Card
+T1581	02-12-2025	Mahika Kumer	Male	42	Furniture	4	10624	42496	North	Debit Card
+T1582	21-10-2025	Hansh Sibal	Female	19	Furniture	4	44219	176876	North	Credit Card
+T1583	17-01-2025	Mishti Bedi	Female	21	Toys	4	12177	48708	East	Cash
+T1584	03-04-2025	Vihaan Saran	Female	55	Home Appliances	4	27610	110440	East	UPI
+T1585	11-10-2025	Hansh Zacharia	Male	25	Electronics	8	41707	333656	East	UPI
+T1586	04-03-2025	Samaira Varma	Female	51	Books	3	16963	50889	East	Cash
+T1587	22-03-2025	Ivan Wable	Male	37	Home Appliances	8	37043	296344	West	Debit Card
+T1588	04-01-2025	Abram Ghosh	Female	34	Toys	3	49729	149187	Central	Cash
+T1589	19-09-2025	Jayan Loyal	Male	53	Books	7	6542	45794	North	Debit Card
+T1590	06-09-2025	Arhaan Sama	Male	53	Home Appliances	4	5762	23048	West	Net Banking
+T1591	14-04-2025	Ryan Mand	Female	21	Grocery	5	32916	164580	North	Net Banking
+T1592	07-01-2025	Aarush Saxena	Male	62	Home Appliances	5	36683	183415	North	Credit Card
+T1593	21-08-2025	Kiara Sastry	Female	37	Clothing	4	21977	87908	North	UPI
+T1594	09-09-2025	Advik Guha	Male	43	Grocery	2	404	808	East	Cash
+T1595	24-06-2025	Vihaan Wable	Male	20	Grocery	10	7567	75670	North	Debit Card
+T1596	07-11-2025	Misha Tella	Male	31	Home Appliances	5	28470	142350	Central	Cash
+T1597	26-08-2025	Advik Kapur	Male	31	Books	7	15020	105140	West	Debit Card
+T1598	12-06-2025	Ela Bhatt	Female	58	Sports	5	44841	224205	South	Credit Card
+T1599	01-01-2025	Baiju Dhawan	Male	64	Grocery	7	12401	86807	North	Net Banking
+T1600	10-10-2025	Krish Dara	Female	45	Furniture	7	6327	44289	North	Net Banking
+T1601	14-04-2025	Kimaya Ganesan	Female	64	Sports	4	7212	28848	West	Credit Card
+T1602	14-06-2025	Mahika Johal	Female	23	Electronics	4	29079	116316	West	Credit Card
+T1603	09-02-2025	Hrishita Deo	Female	39	Grocery	4	11378	45512	West	Credit Card
+T1604	04-05-2025	Indrans Raja	Male	30	Clothing	1	3094	3094	North	Cash
+T1605	14-01-2025	Hrishita Mani	Male	57	Toys	6	24575	147450	East	UPI
+T1606	03-08-2025	Bhamini Mallick	Female	19	Footwear	5	45313	226565	South	UPI
+T1607	03-05-2025	Ryan Borah	Female	33	Footwear	8	48996	391968	West	Net Banking
+T1608	20-09-2025	Nirvaan Gandhi	Female	19	Grocery	8	30198	241584	East	Credit Card
+T1609	20-11-2025	Amira Kamdar	Female	51	Beauty	8	1830	14640	West	Cash
+T1610	23-06-2025	Tara Lalla	Male	27	Electronics	6	6585	39510	West	Cash
+T1611	19-08-2025	Mehul Biswas	Female	34	Clothing	6	15947	95682	East	Credit Card
+T1612	07-01-2025	Reyansh Shroff	Male	40	Furniture	8	46247	369976	Central	Cash
+T1613	04-06-2025	Mehul Sharaf	Male	63	Furniture	5	16657	83285	East	Cash
+T1614	11-11-2025	Samaira Gupta	Male	58	Home Appliances	5	32647	163235	East	Cash
+T1615	15-01-2025	Akarsh Shanker	Female	46	Furniture	3	21984	65952	West	Debit Card
+T1616	14-05-2025	Jayesh Wali	Female	55	Toys	10	34415	344150	East	Net Banking
+T1617	02-06-2025	Samarth Subramaniam	Female	25	Clothing	7	22566	157962	North	Debit Card
+T1618	29-01-2025	Mohanlal Venkatesh	Female	42	Furniture	2	36517	73034	East	Net Banking
+T1619	01-05-2025	Prisha Rattan	Female	32	Furniture	10	10551	105510	Central	UPI
+T1620	14-03-2025	Farhan Sidhu	Male	35	Footwear	8	31434	251472	West	Cash
+T1621	25-12-2025	Raghav Chandra	Male	35	Toys	9	33419	300771	West	Cash
+T1622	21-09-2025	Armaan Mand	Female	41	Toys	6	2995	17970	Central	UPI
+T1623	25-08-2025	Sumer Raman	Male	20	Beauty	9	31666	284994	South	Net Banking
+T1624	26-03-2025	Anahi Krishnamurthy	Female	35	Beauty	7	42625	298375	Central	UPI
+T1625	12-08-2025	Aaina Dua	Male	52	Sports	5	12191	60955	Central	Cash
+T1626	04-09-2025	Shalv Bakshi	Male	29	Grocery	10	21789	217890	South	Credit Card
+T1627	15-03-2025	Madhav Grover	Female	57	Beauty	8	5951	47608	East	Credit Card
+T1628	16-12-2025	Lagan Lal	Female	38	Sports	6	32187	193122	North	Cash
+T1629	01-11-2025	Tara Kashyap	Female	53	Footwear	4	8219	32876	West	UPI
+T1630	19-01-2025	Misha Aggarwal	Male	41	Clothing	6	27620	165720	North	Debit Card
+T1631	21-02-2025	Nitya Bhakta	Female	37	Home Appliances	7	43347	303429	Central	Net Banking
+T1632	08-10-2025	Himmat Kari	Female	22	Home Appliances	9	2898	26082	Central	Debit Card
+T1633	14-08-2025	Indrans Agrawal	Female	42	Footwear	9	8456	76104	Central	Debit Card
+T1634	18-04-2025	Anay Andra	Female	20	Beauty	5	28304	141520	North	Net Banking
+T1635	05-02-2025	Vedika Kaur	Male	65	Electronics	3	36681	110043	West	Debit Card
+T1636	21-02-2025	Baiju Kamdar	Male	57	Electronics	6	3944	23664	Central	UPI
+T1637	10-03-2025	Samarth Das	Female	19	Furniture	8	15614	124912	West	Cash
+T1638	08-11-2025	Hiran Bir	Male	52	Footwear	9	17575	158175	West	Debit Card
+T1639	03-04-2025	Aradhya Bahl	Female	41	Toys	2	358	716	North	UPI
+T1640	12-01-2025	Aarush Sampath	Male	23	Sports	5	9533	47665	North	Cash
+T1641	31-08-2025	Ryan Kaur	Male	61	Books	5	3722	18610	West	Cash
+T1642	25-02-2025	Jayant Choudhry	Male	31	Footwear	9	38127	343143	West	Credit Card
+T1643	07-09-2025	Misha Varghese	Male	23	Electronics	4	22873	91492	South	Cash
+T1644	24-10-2025	Mannat Sathe	Female	27	Footwear	4	4482	17928	South	Debit Card
+T1645	18-04-2025	Dishani Saraf	Male	59	Grocery	2	354	708	East	Credit Card
+T1646	17-10-2025	Sumer Atwal	Female	33	Clothing	3	16943	50829	West	Debit Card
+T1647	17-09-2025	Ojas Boase	Male	30	Grocery	6	16359	98154	West	Credit Card
+T1648	26-05-2025	Ishita Ganguly	Female	56	Furniture	1	30938	30938	South	UPI
+T1649	14-09-2025	Anay Savant	Female	62	Beauty	4	18346	73384	West	Cash
+T1650	25-11-2025	Adah Handa	Female	33	Beauty	9	4781	43029	South	Debit Card
+T1651	28-02-2025	Anay Maharaj	Male	58	Toys	1	20082	20082	South	Cash
+T1652	03-11-2025	Misha Tailor	Male	36	Footwear	10	14190	141900	West	Credit Card
+T1653	11-07-2025	Ishita Walia	Male	35	Footwear	9	21507	193563	North	Cash
+T1654	05-05-2025	Arhaan Zacharia	Male	64	Clothing	6	31778	190668	West	Net Banking
+T1655	23-01-2025	Adira Dash	Female	27	Home Appliances	10	18067	180670	North	Debit Card
+T1656	06-01-2025	Zoya Warrior	Female	18	Books	5	33293	166465	South	Debit Card
+T1657	16-05-2025	Kimaya Bhavsar	Male	49	Books	1	21086	21086	South	Credit Card
+T1658	12-02-2025	Krish Mahal	Male	30	Books	9	17227	155043	Central	Cash
+T1659	25-12-2025	Mannat Agrawal	Female	52	Clothing	9	21078	189702	West	UPI
+T1660	22-11-2025	Neelofar Chand	Female	63	Sports	4	23827	95308	West	Credit Card
+T1661	27-08-2025	Azad Mane	Female	21	Footwear	7	44103	308721	South	UPI
+T1662	16-01-2025	Aniruddh Bhakta	Male	32	Toys	10	21497	214970	North	Net Banking
+T1663	11-04-2025	Sahil Atwal	Female	54	Toys	2	41000	82000	Central	Cash
+T1664	01-05-2025	Misha Mani	Female	46	Grocery	9	23608	212472	East	Cash
+T1665	04-07-2025	Anaya Raman	Male	42	Toys	6	47802	286812	East	UPI
+T1666	29-06-2025	Mahika Sundaram	Male	24	Clothing	3	7026	21078	South	Credit Card
+T1667	02-06-2025	Gatik Sangha	Male	41	Electronics	7	18054	126378	Central	Credit Card
+T1668	13-07-2025	Kismat Rama	Female	19	Home Appliances	4	10729	42916	West	Net Banking
+T1669	20-04-2025	Anaya Mani	Male	32	Sports	6	32384	194304	East	Cash
+T1670	22-12-2025	Tarini Kade	Male	40	Home Appliances	3	43895	131685	South	Cash
+T1671	18-03-2025	Riya Divan	Male	53	Beauty	2	11839	23678	North	Credit Card
+T1672	09-06-2025	Khushi Chander	Male	65	Toys	6	31373	188238	Central	Debit Card
+T1673	09-11-2025	Reyansh Kaur	Female	26	Toys	2	27635	55270	West	Credit Card
+T1674	14-03-2025	Romil Sethi	Male	49	Grocery	9	18396	165564	South	Net Banking
+T1675	23-04-2025	Gatik Korpal	Male	56	Beauty	8	33238	265904	North	Cash
+T1676	11-02-2025	Suhana Rau	Female	24	Sports	3	17665	52995	Central	Net Banking
+T1677	16-06-2025	Anvi Mannan	Male	51	Beauty	4	30989	123956	Central	Debit Card
+T1678	17-05-2025	Pihu Rama	Male	56	Sports	6	10287	61722	South	Net Banking
+T1679	17-07-2025	Rania Khosla	Female	40	Furniture	5	40734	203670	Central	UPI
+T1680	23-08-2025	Elakshi Gole	Female	28	Furniture	6	45304	271824	South	UPI
+T1681	05-03-2025	Anvi Chand	Male	22	Beauty	8	12966	103728	South	Net Banking
+T1682	18-06-2025	Jivika Dube	Female	19	Home Appliances	4	9024	36096	East	UPI
+T1683	24-12-2025	Reyansh Gera	Female	21	Toys	9	45908	413172	East	Debit Card
+T1684	04-07-2025	Tejas Suri	Female	24	Footwear	4	17785	71140	East	Cash
+T1685	23-12-2025	Vivaan Vala	Male	63	Beauty	1	24266	24266	South	UPI
+T1686	04-01-2025	Piya Kapoor	Male	42	Sports	6	8251	49506	North	Net Banking
+T1687	27-03-2025	Armaan Magar	Male	49	Grocery	2	4461	8922	Central	Credit Card
+T1688	01-07-2025	Riya Sachdev	Female	44	Beauty	8	23021	184168	North	UPI
+T1689	06-09-2025	Aaryahi Dayal	Female	26	Home Appliances	1	28714	28714	Central	Cash
+T1690	08-10-2025	Pari Sunder	Female	58	Sports	1	49870	49870	Central	Cash
+T1691	15-06-2025	Jivin Johal	Female	33	Clothing	6	7928	47568	Central	Debit Card
+T1692	07-11-2025	Pranay Hari	Male	49	Grocery	3	27249	81747	North	Debit Card
+T1693	25-03-2025	Biju Divan	Female	61	Clothing	4	36395	145580	East	Cash
+T1694	29-08-2025	Priyansh Goswami	Male	56	Home Appliances	1	27290	27290	South	UPI
+T1695	04-02-2025	Aaina Sabharwal	Male	42	Clothing	4	15922	63688	South	Credit Card
+T1696	08-07-2025	Samar Saraf	Female	41	Sports	6	14165	84990	West	Net Banking
+T1697	14-05-2025	Aradhya Sangha	Male	19	Home Appliances	10	43987	439870	West	UPI
+T1698	07-04-2025	Parinaaz Chaudhry	Female	24	Home Appliances	8	4756	38048	North	Debit Card
+T1699	13-12-2025	Riya Chatterjee	Female	33	Clothing	10	33294	332940	South	UPI
+T1700	18-08-2025	Urvi Ravel	Male	57	Footwear	6	44656	267936	South	UPI
+T1701	22-07-2025	Azad Wable	Female	42	Clothing	9	12184	109656	Central	Credit Card
+T1702	06-02-2025	Renee Deshmukh	Female	25	Grocery	7	7834	54838	South	UPI
+T1703	19-05-2025	Raghav Din	Female	24	Grocery	10	16329	163290	North	Cash
+T1704	08-07-2025	Ritvik Dhar	Male	54	Furniture	8	28464	227712	West	UPI
+T1705	21-04-2025	Indrajit Lad	Male	59	Clothing	3	16873	50619	West	UPI
+T1706	30-12-2025	Mamooty Trivedi	Male	56	Books	4	5956	23824	South	Credit Card
+T1707	15-06-2025	Mamooty Dhillon	Male	49	Books	8	35892	287136	East	UPI
+T1708	24-02-2025	Hazel Subramanian	Male	29	Home Appliances	7	23123	161861	North	Cash
+T1709	02-01-2025	Samarth Chhabra	Female	39	Books	9	19048	171432	East	Credit Card
+T1710	23-02-2025	Reyansh Chakraborty	Female	62	Books	4	44698	178792	North	UPI
+T1711	01-10-2025	Umang Aurora	Male	18	Grocery	7	21018	147126	East	UPI
+T1712	13-09-2025	Dhanush Bandi	Male	21	Home Appliances	6	22261	133566	North	Net Banking
+T1713	14-09-2025	Bhamini Varma	Female	62	Sports	2	28270	56540	South	Credit Card
+T1714	30-07-2025	Dhruv Grewal	Male	52	Furniture	8	39726	317808	East	Credit Card
+T1715	18-02-2025	Pranay Chacko	Male	24	Clothing	7	38567	269969	South	Debit Card
+T1716	05-12-2025	Divit Kari	Male	64	Books	3	15895	47685	North	Cash
+T1717	24-09-2025	Anaya Chaudhary	Female	41	Sports	7	9117	63819	East	UPI
+T1718	26-06-2025	Seher Chauhan	Female	64	Clothing	6	48221	289326	East	Credit Card
+T1719	02-04-2025	Sahil Gokhale	Female	21	Footwear	4	24130	96520	West	UPI
+T1720	20-02-2025	Onkar Garg	Female	45	Toys	6	37352	224112	Central	Cash
+T1721	02-04-2025	Miraan Goswami	Male	51	Footwear	9	6306	56754	West	Cash
+T1722	29-06-2025	Samar Bose	Male	63	Books	8	10068	80544	East	Credit Card
+T1723	02-02-2025	Ayesha Singh	Female	62	Grocery	10	49666	496660	West	Debit Card
+T1724	21-03-2025	Nitya Korpal	Male	47	Beauty	1	43767	43767	South	Cash
+T1725	02-04-2025	Myra Varty	Female	31	Toys	5	41236	206180	South	Cash
+T1726	09-07-2025	Tushar Kar	Male	58	Books	5	30424	152120	East	Net Banking
+T1727	06-03-2025	Reyansh Goswami	Male	36	Furniture	1	23247	23247	East	Net Banking
+T1728	04-02-2025	Seher Mannan	Female	63	Toys	1	47741	47741	East	Cash
+T1729	26-07-2025	Anahita Garg	Female	36	Books	5	15585	77925	East	Cash
+T1730	19-11-2025	Lavanya Ratta	Male	49	Grocery	9	44615	401535	Central	UPI
+T1731	01-06-2025	Hrishita Dutt	Male	41	Toys	8	23604	188832	South	Credit Card
+T1732	11-11-2025	Khushi Jayaraman	Female	39	Sports	6	32122	192732	East	Net Banking
+T1733	05-06-2025	Stuvan Andra	Female	45	Beauty	1	29108	29108	Central	Net Banking
+T1734	12-03-2025	Aarna Toor	Female	44	Books	7	12647	88529	South	Net Banking
+T1735	29-11-2025	Pihu Chaudhary	Male	60	Footwear	10	35590	355900	East	Cash
+T1736	19-02-2025	Advika Krishnamurthy	Male	30	Home Appliances	7	14368	100576	West	Debit Card
+T1737	14-04-2025	Samarth Dyal	Female	33	Furniture	10	33291	332910	South	Credit Card
+T1738	04-06-2025	Eshani Dugal	Female	22	Furniture	2	16868	33736	North	Net Banking
+T1739	23-06-2025	Miraya Tailor	Male	50	Sports	2	28624	57248	Central	Credit Card
+T1740	08-09-2025	Samarth Sankaran	Female	20	Sports	6	43205	259230	East	Credit Card
+T1741	03-09-2025	Samaira Johal	Female	65	Home Appliances	9	35256	317304	South	Cash
+T1742	20-03-2025	Ira Setty	Female	37	Furniture	5	6060	30300	West	Credit Card
+T1743	15-09-2025	Kanav Bose	Male	64	Clothing	10	22985	229850	South	Cash
+T1744	16-04-2025	Nakul Lata	Male	55	Toys	9	16367	147303	East	Debit Card
+T1745	15-07-2025	Biju Sachdeva	Male	27	Grocery	7	7420	51940	South	Debit Card
+T1746	07-03-2025	Indranil Bala	Male	44	Books	10	47540	475400	South	Credit Card
+T1747	24-04-2025	Tiya Singh	Male	45	Books	10	7264	72640	South	Debit Card
+T1748	18-05-2025	Vihaan Ahluwalia	Male	56	Home Appliances	6	39211	235266	East	Debit Card
+T1749	12-03-2025	Mamooty Dass	Male	50	Footwear	10	48584	485840	East	Cash
+T1750	15-04-2025	Anya Iyer	Female	26	Beauty	1	37086	37086	Central	Credit Card
+T1751	29-07-2025	Badal Dalal	Male	40	Beauty	1	34615	34615	West	UPI
+T1752	15-10-2025	Lagan Gaba	Female	52	Beauty	2	19021	38042	North	Net Banking
+T1753	30-08-2025	Drishya Bhatnagar	Female	60	Clothing	10	44946	449460	Central	Cash
+T1754	16-07-2025	Badal Batra	Male	57	Toys	6	10073	60438	South	Net Banking
+T1755	24-11-2025	Lakshay Ramanathan	Male	54	Home Appliances	8	939	7512	South	Net Banking
+T1756	22-06-2025	Ehsaan Dhaliwal	Female	24	Footwear	6	30894	185364	East	Cash
+T1757	18-08-2025	Pari Suri	Male	38	Beauty	6	36861	221166	West	Net Banking
+T1758	28-02-2025	Veer Sama	Female	30	Electronics	8	35173	281384	North	Credit Card
+T1759	15-02-2025	Nirvi Kohli	Female	19	Toys	1	42800	42800	North	Cash
+T1760	02-08-2025	Stuvan Mane	Female	29	Toys	9	25743	231687	North	Credit Card
+T1761	02-07-2025	Aayush Srivastava	Female	30	Electronics	3	42599	127797	East	Cash
+T1762	28-10-2025	Amira Khatri	Male	23	Home Appliances	1	1407	1407	Central	UPI
+T1763	13-03-2025	Divij Sandhu	Female	59	Toys	10	12951	129510	Central	Credit Card
+T1764	29-09-2025	Pari Trivedi	Male	20	Toys	3	39094	117282	East	Cash
+T1765	01-03-2025	Emir Gala	Male	63	Electronics	8	37837	302696	West	UPI
+T1766	09-06-2025	Jivin Sandal	Female	52	Toys	8	10856	86848	South	Credit Card
+T1767	09-11-2025	Ranbir Krishnamurthy	Male	65	Toys	10	9416	94160	North	Credit Card
+T1768	17-02-2025	Hridaan Soman	Male	33	Clothing	4	38738	154952	North	Net Banking
+T1769	03-08-2025	Anahi Samra	Male	37	Electronics	5	49240	246200	South	Cash
+T1770	07-06-2025	Anahi Koshy	Female	50	Electronics	6	7881	47286	Central	Debit Card
+T1771	13-08-2025	Aarna Sachdeva	Female	34	Home Appliances	1	25763	25763	Central	UPI
+T1772	08-07-2025	Ranbir Sastry	Female	25	Sports	2	22766	45532	West	UPI
+T1773	11-10-2025	Kashvi Chander	Male	33	Grocery	5	7739	38695	North	Debit Card
+T1774	06-07-2025	Aarav Ganguly	Male	20	Sports	10	18834	188340	Central	Credit Card
+T1775	27-07-2025	Manjari Rao	Female	62	Furniture	7	28042	196294	West	Net Banking
+T1776	16-01-2025	Piya Varkey	Female	37	Beauty	7	38950	272650	West	Cash
+T1777	01-11-2025	Samar Gupta	Female	45	Books	3	7388	22164	North	Cash
+T1778	15-08-2025	Zeeshan Gandhi	Male	52	Furniture	6	37700	226200	Central	Credit Card
+T1779	25-04-2025	Elakshi Magar	Male	55	Furniture	5	42540	212700	West	Net Banking
+T1780	09-10-2025	Heer Seth	Female	52	Toys	5	23699	118495	West	Net Banking
+T1781	01-04-2025	Darshit Chaudry	Male	25	Electronics	5	14115	70575	North	UPI
+T1782	10-01-2025	Divyansh Kala	Female	37	Sports	7	36894	258258	Central	Net Banking
+T1783	07-08-2025	Shamik Mall	Male	49	Beauty	3	34427	103281	South	Debit Card
+T1784	01-10-2025	Ishaan Saran	Male	46	Home Appliances	2	10435	20870	West	Cash
+T1785	13-09-2025	Anaya Sachdeva	Male	21	Grocery	6	8355	50130	East	UPI
+T1786	24-12-2025	Badal Shere	Male	60	Clothing	2	28846	57692	East	Credit Card
+T1787	24-05-2025	Neelofar Sane	Male	37	Home Appliances	10	19059	190590	South	Cash
+T1788	23-02-2025	Chirag Dube	Female	60	Footwear	8	29681	237448	North	Credit Card
+T1789	16-09-2025	Emir Soni	Female	25	Footwear	7	22946	160622	Central	Credit Card
+T1790	08-02-2025	Dishani Bajaj	Female	52	Grocery	1	7428	7428	East	Debit Card
+T1791	25-07-2025	Chirag Bhandari	Female	25	Clothing	2	40311	80622	East	Credit Card
+T1792	21-06-2025	Nakul Ganguly	Male	34	Sports	10	17002	170020	North	UPI
+T1793	06-02-2025	Ritvik Bhavsar	Female	35	Clothing	2	33135	66270	Central	Credit Card
+T1794	14-08-2025	Mannat Golla	Female	30	Furniture	7	12222	85554	East	Credit Card
+T1795	03-05-2025	Madhup Halder	Female	18	Footwear	6	14927	89562	North	Debit Card
+T1796	15-03-2025	Divij Shukla	Female	38	Grocery	7	31076	217532	South	Debit Card
+T1797	26-07-2025	Pihu Yohannan	Female	48	Furniture	6	21844	131064	East	Credit Card
+T1798	22-09-2025	Shayak Chaudry	Female	36	Home Appliances	1	39900	39900	South	Cash
+T1799	10-12-2025	Mehul Chatterjee	Female	27	Sports	4	16918	67672	North	Credit Card
+T1800	08-06-2025	Heer Majumdar	Male	52	Beauty	8	9453	75624	Central	Credit Card
+T1801	20-07-2025	Adah Randhawa	Male	36	Books	7	40918	286426	North	Credit Card
+T1802	21-09-2025	Navya Roy	Male	27	Beauty	7	40746	285222	East	Net Banking
+T1803	17-07-2025	Darshit Chaudry	Male	46	Furniture	6	42088	252528	North	Credit Card
+T1804	29-07-2025	Prerak Sood	Male	60	Footwear	8	15657	125256	South	Credit Card
+T1805	22-08-2025	Aaina Lanka	Male	25	Grocery	4	11105	44420	Central	Debit Card
+T1806	17-02-2025	Vihaan Rao	Female	60	Grocery	4	1293	5172	South	Debit Card
+T1807	17-06-2025	Zara Garg	Female	25	Toys	1	32767	32767	North	Debit Card
+T1808	25-10-2025	Vanya Gour	Male	23	Clothing	5	10346	51730	East	UPI
+T1809	18-01-2025	Kabir Aurora	Male	28	Furniture	1	46704	46704	North	UPI
+T1810	20-03-2025	Lavanya Tak	Male	58	Beauty	10	2993	29930	East	Cash
+T1811	13-10-2025	Keya Choudhury	Female	32	Electronics	9	20563	185067	North	Net Banking
+T1812	15-10-2025	Nitara Uppal	Male	44	Grocery	6	5348	32088	South	Credit Card
+T1813	02-01-2025	Mohanlal Dugal	Female	39	Grocery	8	14581	116648	Central	Credit Card
+T1814	27-05-2025	Tara Sheth	Female	28	Beauty	7	17028	119196	North	UPI
+T1815	26-10-2025	Hunar Sheth	Female	19	Sports	4	20098	80392	West	Credit Card
+T1816	05-04-2025	Yakshit Bath	Male	26	Home Appliances	7	5687	39809	West	UPI
+T1817	20-02-2025	Mishti Raja	Male	22	Toys	5	36924	184620	Central	Credit Card
+T1818	17-04-2025	Oorja Keer	Male	64	Toys	6	13473	80838	West	Credit Card
+T1819	03-01-2025	Mohanlal Dixit	Female	25	Electronics	9	40909	368181	West	Net Banking
+T1820	09-01-2025	Devansh Hegde	Female	45	Furniture	9	16521	148689	North	Debit Card
+T1821	16-08-2025	Kaira Sani	Female	27	Home Appliances	10	4069	40690	South	Cash
+T1822	28-09-2025	Mishti Cheema	Male	18	Clothing	3	2778	8334	East	Cash
+T1823	14-11-2025	Parinaaz Lala	Female	33	Home Appliances	5	2481	12405	East	Credit Card
+T1824	17-04-2025	Miraya Kakar	Female	26	Grocery	10	40103	401030	Central	Cash
+T1825	02-03-2025	Misha Amble	Male	43	Footwear	2	21285	42570	North	Debit Card
+T1826	13-11-2025	Rania Manda	Male	19	Footwear	3	34137	102411	East	Credit Card
+T1827	12-01-2025	Fateh Mangal	Male	64	Sports	3	19344	58032	South	UPI
+T1828	01-01-2026	Reyansh Sachdev	Male	34	Books	4	5041	20164	South	Cash
+T1829	14-10-2025	Charvi Bhasin	Female	44	Clothing	1	38105	38105	Central	UPI
+T1830	23-10-2025	Zaina Sarma	Male	51	Grocery	9	35144	316296	East	Debit Card
+T1831	29-01-2025	Jiya Lalla	Male	37	Clothing	8	45977	367816	Central	Credit Card
+T1832	16-10-2025	Damini Dhillon	Male	36	Grocery	5	39476	197380	South	Cash
+T1833	08-01-2025	Nayantara Kala	Male	60	Beauty	8	47121	376968	South	Debit Card
+T1834	03-02-2025	Madhup Chaudhary	Male	64	Home Appliances	10	33232	332320	East	Debit Card
+T1835	29-11-2025	Indranil Amble	Male	60	Grocery	4	610	2440	South	Net Banking
+T1836	28-08-2025	Amani Lad	Male	40	Furniture	1	41214	41214	North	UPI
+T1837	12-04-2025	Khushi Kadakia	Male	48	Clothing	7	29249	204743	North	Cash
+T1838	28-11-2025	Zaina Sahni	Male	54	Books	5	48761	243805	Central	Net Banking
+T1839	22-05-2025	Divit Karan	Female	27	Electronics	10	2444	24440	North	Cash
+T1840	25-03-2025	Ranbir Dasgupta	Male	39	Beauty	2	456	912	West	Credit Card
+T1841	25-02-2025	Ivana Bobal	Female	45	Grocery	10	2939	29390	West	Credit Card
+T1842	12-01-2025	Parinaaz Shukla	Female	53	Clothing	1	3851	3851	East	Credit Card
+T1843	28-06-2025	Fateh Goyal	Male	31	Footwear	5	48142	240710	North	Credit Card
+T1844	30-03-2025	Neysa Zachariah	Male	23	Clothing	6	26051	156306	South	Credit Card
+T1845	05-02-2025	Bhamini Badal	Male	32	Electronics	5	4152	20760	East	Net Banking
+T1846	12-06-2025	Ishaan Barad	Female	30	Home Appliances	5	23344	116720	Central	Credit Card
+T1847	05-04-2025	Akarsh Mann	Female	42	Electronics	6	4297	25782	North	Net Banking
+T1848	08-05-2025	Heer Kala	Male	32	Clothing	3	6021	18063	North	Debit Card
+T1849	09-01-2025	Drishya Dora	Female	21	Beauty	1	16083	16083	East	Cash
+T1850	26-03-2025	Hiran Bedi	Female	28	Beauty	10	34397	343970	East	Credit Card
+T1851	29-05-2025	Divij Subramaniam	Female	28	Books	2	34588	69176	North	Cash
+T1852	09-12-2025	Gokul Biswas	Female	42	Clothing	1	35532	35532	West	Credit Card
+T1853	04-10-2025	Nayantara Walia	Female	35	Grocery	1	35852	35852	North	Debit Card
+T1854	22-02-2025	Kiara Sabharwal	Female	24	Beauty	4	43731	174924	East	Cash
+T1855	13-04-2025	Nishith Jayaraman	Male	37	Footwear	2	48688	97376	South	Cash
+T1856	17-10-2025	Saanvi Shukla	Female	48	Electronics	6	18922	113532	East	Debit Card
+T1857	26-08-2025	Ojas Goda	Female	36	Beauty	8	10445	83560	West	Cash
+T1858	19-12-2025	Chirag Kota	Female	62	Furniture	10	31158	311580	West	UPI
+T1859	20-08-2025	Damini Mallick	Male	18	Clothing	7	16846	117922	East	Net Banking
+T1860	05-06-2025	Farhan Chandra	Male	28	Books	10	2311	23110	North	Net Banking
+T1861	12-08-2025	Yuvaan Kashyap	Male	47	Toys	3	24215	72645	North	UPI
+T1862	12-06-2025	Adira Kannan	Female	24	Beauty	5	44082	220410	East	Debit Card
+T1863	31-08-2025	Ritvik Deshpande	Male	48	Clothing	8	45878	367024	West	Credit Card
+T1864	29-07-2025	Aaina Singh	Female	45	Furniture	2	1181	2362	South	Net Banking
+T1865	10-02-2025	Nayantara Dhar	Female	22	Books	7	18439	129073	North	Debit Card
+T1866	26-04-2025	Adah Dugar	Male	63	Home Appliances	10	15494	154940	Central	Net Banking
+T1867	10-07-2025	Purab Khare	Male	58	Sports	1	26573	26573	North	Credit Card
+T1868	19-10-2025	Yasmin Chhabra	Female	20	Electronics	4	30248	120992	East	Credit Card
+T1869	31-12-2025	Suhana Desai	Female	40	Electronics	6	43117	258702	South	Credit Card
+T1870	13-12-2025	Darshit D’Alia	Female	55	Books	2	32446	64892	East	UPI
+T1871	19-10-2025	Indrajit Virk	Male	27	Footwear	6	13975	83850	East	UPI
+T1872	21-12-2025	Vivaan Dara	Male	59	Sports	2	9531	19062	West	Credit Card
+T1873	18-06-2025	Nirvaan Banerjee	Male	43	Sports	8	25777	206216	West	UPI
+T1874	11-07-2025	Hridaan Raj	Female	46	Toys	8	9885	79080	West	Debit Card
+T1875	21-11-2025	Manjari Char	Female	56	Clothing	7	46682	326774	South	UPI
+T1876	06-04-2025	Krish Ganesh	Female	58	Sports	8	15841	126728	East	Debit Card
+T1877	25-03-2025	Seher Ratti	Female	23	Beauty	4	48521	194084	South	Cash
+T1878	01-02-2025	Advik Kakar	Male	38	Clothing	6	17556	105336	North	Cash
+T1879	29-04-2025	Taran Varty	Female	30	Beauty	1	4286	4286	South	Debit Card
+T1880	17-03-2025	Vidur Khare	Male	30	Footwear	1	32185	32185	North	Debit Card
+T1881	22-02-2025	Diya Ratti	Male	50	Electronics	10	49233	492330	North	UPI
+T1882	24-02-2025	Pari Gopal	Male	42	Toys	10	40968	409680	North	Debit Card
+T1883	21-02-2025	Farhan Chandran	Male	34	Furniture	5	21057	105285	West	Net Banking
+T1884	01-01-2026	Samiha Dada	Female	57	Grocery	5	43039	215195	West	Credit Card
+T1885	09-07-2025	Tejas Cheema	Male	20	Grocery	6	12028	72168	East	Debit Card
+T1886	16-09-2025	Miraan Bail	Female	31	Sports	3	2600	7800	North	Cash
+T1887	25-04-2025	Fateh Vyas	Male	21	Footwear	10	17880	178800	Central	Debit Card
+T1888	19-09-2025	Shaan Shukla	Female	19	Clothing	2	21607	43214	East	Credit Card
+T1889	27-11-2025	Piya Sachar	Male	44	Books	5	47153	235765	East	Cash
+T1890	17-02-2025	Vritika Tripathi	Female	27	Toys	8	2491	19928	South	Net Banking
+T1891	15-07-2025	Ehsaan Dhawan	Male	21	Sports	7	32732	229124	East	Net Banking
+T1892	14-01-2025	Sumer Bhardwaj	Male	27	Beauty	8	9652	77216	West	UPI
+T1893	13-02-2025	Nishith Uppal	Female	22	Sports	5	19147	95735	East	Debit Card
+T1894	01-12-2025	Lagan Edwin	Male	59	Beauty	9	36599	329391	Central	Debit Card
+T1895	16-02-2025	Oorja Krishna	Female	61	Toys	2	12330	24660	South	Credit Card
+T1896	09-01-2025	Suhana Bhatnagar	Female	54	Furniture	4	28030	112120	North	Credit Card
+T1897	04-11-2025	Saanvi Madan	Male	23	Grocery	2	33015	66030	North	Credit Card
+T1898	24-11-2025	Tejas Dyal	Male	63	Sports	7	3153	22071	North	Net Banking
+T1899	01-11-2025	Raunak Kant	Female	62	Clothing	6	6684	40104	East	Net Banking
+T1900	26-11-2025	Kanav Kohli	Male	32	Furniture	3	34594	103782	Central	UPI
+T1901	14-09-2025	Yashvi Barad	Female	31	Books	9	42542	382878	North	UPI
+T1902	30-05-2025	Mehul Goswami	Male	59	Home Appliances	1	2678	2678	North	UPI
+T1903	12-11-2025	Saksham Mall	Female	25	Sports	2	10115	20230	South	Debit Card
+T1904	05-01-2025	Dishani Savant	Female	56	Grocery	3	39045	117135	North	Net Banking
+T1905	01-08-2025	Abram Sen	Female	53	Footwear	4	41124	164496	South	Credit Card
+T1906	11-12-2025	Shray Sachdeva	Male	20	Grocery	1	12490	12490	North	Credit Card
+T1907	21-10-2025	Saksham Dar	Female	35	Sports	1	37546	37546	West	Debit Card
+T1908	27-08-2025	Rasha Sarin	Male	54	Books	6	26146	156876	Central	UPI
+T1909	25-04-2025	Zain Balay	Female	28	Books	1	21524	21524	East	UPI
+T1910	18-04-2025	Jayan Kapadia	Female	22	Sports	3	7339	22017	West	Cash
+T1911	12-10-2025	Nayantara Acharya	Male	47	Toys	2	49713	99426	South	Debit Card
+T1912	25-11-2025	Nitara Shanker	Male	44	Grocery	6	31855	191130	East	Credit Card
+T1913	30-06-2025	Mehul Agrawal	Male	62	Beauty	2	5150	10300	Central	Credit Card
+T1914	25-07-2025	Divit Vyas	Male	59	Books	3	33070	99210	South	Cash
+T1915	14-08-2025	Suhana Rajagopalan	Male	45	Furniture	3	45392	136176	North	Debit Card
+T1916	19-07-2025	Armaan Desai	Male	37	Furniture	10	24256	242560	East	Credit Card
+T1917	12-12-2025	Darshit Karpe	Female	50	Home Appliances	8	13910	111280	West	Net Banking
+T1918	04-09-2025	Adira Mammen	Female	45	Home Appliances	1	3112	3112	Central	Credit Card
+T1919	21-06-2025	Yuvraj  Shere	Female	21	Footwear	3	9393	28179	Central	Credit Card
+T1920	12-09-2025	Zaina Ranganathan	Male	38	Toys	2	6962	13924	East	Net Banking
+T1921	04-08-2025	Rhea Deep	Female	34	Footwear	3	18537	55611	Central	Debit Card
+T1922	26-12-2025	Shaan Gaba	Male	39	Toys	6	1804	10824	North	Cash
+T1923	11-02-2025	Madhup Basak	Female	51	Clothing	5	48348	241740	East	Credit Card
+T1924	17-09-2025	Yasmin Keer	Female	58	Beauty	10	16274	162740	Central	Cash
+T1925	28-05-2025	Anya Hayre	Male	64	Footwear	3	8484	25452	East	Net Banking
+T1926	09-02-2025	Nitara Bala	Male	26	Home Appliances	1	46012	46012	Central	Debit Card
+T1927	01-01-2026	Shalv Grover	Female	51	Beauty	1	27027	27027	Central	Debit Card
+T1928	26-11-2025	Bhamini Sur	Male	44	Beauty	10	42191	421910	West	Net Banking
+T1929	22-03-2025	Vidur Virk	Female	63	Books	10	43767	437670	East	UPI
+T1930	03-12-2025	Vihaan Rau	Male	26	Grocery	10	26939	269390	North	Debit Card
+T1931	21-04-2025	Renee Rout	Male	48	Electronics	5	1662	8310	Central	Credit Card
+T1932	22-01-2025	Zoya Das	Female	20	Footwear	6	19081	114486	West	Net Banking
+T1933	11-10-2025	Purab Zachariah	Female	62	Furniture	10	29529	295290	North	UPI
+T1934	17-12-2025	Sara Kumar	Female	45	Toys	9	39941	359469	South	Cash
+T1935	29-06-2025	Bhamini Apte	Female	61	Clothing	3	24821	74463	West	Cash
+T1936	31-05-2025	Keya Sahota	Female	34	Grocery	3	16000	48000	Central	Credit Card
+T1937	17-06-2025	Darshit Venkataraman	Male	23	Home Appliances	2	2482	4964	South	UPI
+T1938	14-05-2025	Lakshay Yohannan	Female	62	Electronics	2	37735	75470	North	Net Banking
+T1939	19-02-2025	Indrajit Bobal	Female	26	Beauty	6	41685	250110	North	Net Banking
+T1940	23-10-2025	Purab Kunda	Female	30	Toys	9	19216	172944	North	Cash
+T1941	05-03-2025	Shray Sampath	Male	58	Electronics	10	5647	56470	North	Debit Card
+T1942	19-09-2025	Raghav Dani	Male	56	Toys	4	21818	87272	North	Debit Card
+T1943	03-11-2025	Vardaniya Iyengar	Female	22	Home Appliances	1	43718	43718	Central	UPI
+T1944	02-08-2025	Anya Garg	Female	54	Electronics	6	18485	110910	West	Credit Card
+T1945	17-12-2025	Nishith Lad	Female	33	Home Appliances	5	15292	76460	East	Net Banking
+T1946	18-01-2025	Uthkarsh Magar	Male	49	Home Appliances	2	12142	24284	South	Net Banking
+T1947	14-01-2025	Kismat Rana	Male	61	Toys	7	13127	91889	Central	Cash
+T1948	02-10-2025	Aniruddh Bail	Male	62	Footwear	3	2702	8106	North	Net Banking
+T1949	04-02-2025	Anay Barad	Female	47	Furniture	2	26420	52840	East	Cash
+T1950	23-03-2025	Saira Garg	Female	25	Electronics	4	44953	179812	North	UPI
+T1951	06-02-2025	Samar Dora	Female	50	Grocery	6	11362	68172	West	Debit Card
+T1952	07-08-2025	Aarna Rege	Female	57	Beauty	7	16563	115941	North	Debit Card
+T1953	22-09-2025	Anya Kulkarni	Male	28	Electronics	10	48731	487310	South	UPI
+T1954	18-12-2025	Fateh Venkataraman	Female	24	Footwear	3	36039	108117	East	UPI
+T1955	09-12-2025	Himmat Varughese	Male	20	Clothing	10	17775	177750	East	Cash
+T1956	03-06-2025	Adah Singhal	Female	42	Electronics	5	14176	70880	East	UPI
+T1957	27-03-2025	Anaya Rana	Male	55	Clothing	9	6825	61425	South	Net Banking
+T1958	01-01-2026	Lakshay Swaminathan	Male	53	Books	8	4243	33944	West	UPI
+T1959	03-01-2025	Tarini Batra	Female	45	Furniture	9	40904	368136	East	Net Banking
+T1960	21-10-2025	Gatik Dayal	Male	56	Furniture	7	3986	27902	North	Cash
+T1961	06-03-2025	Lagan Kakar	Male	43	Clothing	5	42613	213065	North	Credit Card
+T1962	18-02-2025	Trisha Saraf	Male	23	Footwear	4	39220	156880	South	UPI
+T1963	09-03-2025	Uthkarsh Gade	Male	61	Electronics	5	3073	15365	Central	Net Banking
+T1964	07-09-2025	Yakshit Hayer	Female	29	Clothing	3	19775	59325	Central	Net Banking
+T1965	30-08-2025	Vedika Kota	Female	27	Books	6	17122	102732	South	Debit Card
+T1966	27-12-2025	Hansh Taneja	Male	19	Grocery	1	8809	8809	South	Credit Card
+T1967	21-07-2025	Dishani Lalla	Male	54	Electronics	2	15049	30098	West	Cash
+T1968	09-06-2025	Indrajit Upadhyay	Female	38	Beauty	1	16572	16572	North	Debit Card
+T1969	12-03-2025	Parinaaz Walia	Male	22	Grocery	9	26997	242973	East	Net Banking
+T1970	07-05-2025	Onkar Bali	Male	34	Footwear	10	44508	445080	East	Cash
+T1971	17-08-2025	Nehmat Balakrishnan	Female	18	Furniture	9	35284	317556	West	Credit Card
+T1972	02-11-2025	Sara Batta	Female	58	Toys	2	25859	51718	South	Cash
+T1973	19-04-2025	Romil Rajan	Female	29	Sports	1	11074	11074	West	Cash
+T1974	12-07-2025	Ivan Sunder	Male	45	Sports	4	659	2636	West	UPI
+T1975	23-08-2025	Kiaan Sehgal	Male	56	Footwear	8	16982	135856	East	Credit Card
+T1976	04-04-2025	Hrishita Zacharia	Female	49	Toys	10	10765	107650	South	Debit Card
+T1977	08-02-2025	Charvi Reddy	Male	52	Toys	10	46892	468920	North	Debit Card
+T1978	17-08-2025	Vanya Kala	Male	30	Footwear	9	30130	271170	South	UPI
+T1979	26-03-2025	Mishti Soman	Female	41	Sports	9	18906	170154	South	UPI
+T1980	06-07-2025	Aarush Ganguly	Male	53	Electronics	2	32283	64566	Central	Cash
+T1981	01-10-2025	Rohan Bath	Female	52	Clothing	8	36037	288296	North	UPI
+T1982	22-06-2025	Advika Sabharwal	Male	29	Furniture	10	2413	24130	South	Debit Card
+T1983	06-04-2025	Hridaan Kala	Male	38	Sports	4	33709	134836	North	Credit Card
+T1984	05-11-2025	Samaira Handa	Female	30	Toys	1	43685	43685	East	Credit Card
+T1985	30-12-2025	Trisha Bains	Female	55	Furniture	8	24181	193448	South	Debit Card
+T1986	09-11-2025	Mamooty Sama	Male	41	Furniture	9	23632	212688	South	Debit Card
+T1987	01-06-2025	Priyansh Choudhry	Male	29	Books	2	2517	5034	North	Credit Card
+T1988	16-03-2025	Aarav Sura	Female	35	Electronics	8	46986	375888	West	UPI
+T1989	26-02-2025	Rohan Tailor	Female	49	Beauty	4	6847	27388	Central	UPI
+T1990	22-10-2025	Eva Mani	Male	49	Toys	8	11230	89840	Central	UPI
+T1991	22-01-2025	Myra Saha	Male	62	Clothing	2	35902	71804	West	Credit Card
+T1992	13-01-2025	Madhup Sangha	Female	23	Home Appliances	2	27159	54318	Central	Cash
+T1993	13-06-2025	Mohanlal Issac	Male	22	Grocery	2	35890	71780	West	Debit Card
+T1994	07-03-2025	Samaira Gera	Male	60	Footwear	9	34768	312912	West	Net Banking
+T1995	07-04-2025	Pari Gera	Male	45	Books	3	32808	98424	Central	Cash
+T1996	10-04-2025	Gokul Cheema	Male	49	Home Appliances	10	38065	380650	South	Net Banking
+T1997	25-12-2025	Yakshit Bobal	Female	56	Clothing	10	7274	72740	East	Cash
+T1998	18-04-2025	Damini Tiwari	Female	49	Clothing	4	17809	71236	North	Cash
+T1999	10-04-2025	Raghav Karpe	Female	40	Furniture	2	29122	58244	South	Cash
+T2000	28-10-2025	Shray Varma	Female	47	Sports	8	20006	160048	North	Net Banking
